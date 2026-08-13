@@ -1,0 +1,9 @@
+streamlit==1.61.1
+pydantic==2.13.4
+pinecone==7.3.0
+langchain-core==1.5.3
+langchain-openai==1.4.1
+langchain-pinecone==0.2.13
+langchain-chroma==1.1.0
+langchain-classic==1.0.8
+unstructured[pdf]==0.25.2

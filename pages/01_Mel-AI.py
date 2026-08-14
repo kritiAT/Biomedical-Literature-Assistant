@@ -2,8 +2,8 @@
 Melanoma Research Assistant — Streamlit UI (Literature + Drug Data + Memory)
 
 Combines two Pinecone namespaces:
-  - default namespace  -> PubMed literature chunks (from 01_data_ingestion_embedding.ipynb)
-  - "drugs" namespace   -> PubChem/ChEMBL drug chunks (from 03_drug_extension_rag_memory.ipynb)
+  - default namespace  -> PubMed literature chunks
+  - "drugs" namespace   -> PubChem/ChEMBL drug chunks
 
 A lightweight LLM router decides, per question, whether to search literature, drugs, or both.
 Conversation memory is kept in st.session_state and fed back into the prompt on every turn, so
@@ -42,7 +42,7 @@ load_dotenv()
 # ----------------------------------------------------------------------------
 # Config
 # ----------------------------------------------------------------------------
-PINECONE_INDEX_NAME = "melanoma-research-assistant"
+PINECONE_INDEX_NAME = "melanoma-kb"
 LITERATURE_NAMESPACE = ""      # default namespace, matches notebook 1
 DRUGS_NAMESPACE = "drugs"      # matches notebook 3
 EMBEDDING_MODEL = "text-embedding-3-small"
@@ -51,8 +51,8 @@ TOP_K = 5
 MAX_HISTORY_TURNS = 6          # cap conversation memory window sent to the LLM
 
 # Static knowledge-base metrics shown in the UI.
-NUM_ARTICLES_INDEXED = 2000
-NUM_DRUGS_COVERED = 10
+NUM_ARTICLES_INDEXED = 4783
+NUM_DRUGS_COVERED = 57
 
 SUGGESTED_QUESTIONS = [
     "What does the literature say about survival rates for stage IV melanoma?",
@@ -75,7 +75,7 @@ SYSTEM_PROMPT = """You are a friendly melanoma research assistant for clinicians
 Rules you must follow:
 - Only answer questions related to melanoma (research literature, biology, and melanoma-relevant drugs).
 - Base your answer ONLY on the provided context below plus the conversation history. Do not use outside knowledge.
-- Cite literature claims as (PMID: xxxxx) and drug claims as (Drug: <name>, ChEMBL: <id>).
+- Cite literature claims as (PMID: <cid>) and drug claims as (Drug: <name>, ChEMBL: <id>).
 - If the context does not contain enough information, say so explicitly instead of guessing.
 - This is a research/literature summary tool, not medical advice — do not give definitive treatment recommendations.
 
@@ -200,7 +200,7 @@ def format_sources(lit_docs, drug_docs) -> list[dict]:
                 {
                     "type": "drug",
                     "label": f"Drug: {name.title()} (ChEMBL {d.metadata.get('chembl_id')})",
-                    "url": f"https://pubchem.ncbi.nlm.nih.gov/compound/{cid}" if cid else None,
+                    "url": f"https://pubchem.ncbi.nlm.nih.gov/compound/{int(cid)}" if cid else None,
                 }
             )
     return sources
@@ -266,42 +266,140 @@ def render_chat_message(role: str, content: str) -> None:
 # ----------------------------------------------------------------------------
 # UI
 # ----------------------------------------------------------------------------
-st.set_page_config(page_title="Melanoma Research Assistant", page_icon="🔬", layout="wide")
+# st.set_page_config(page_title="Mel-AI", page_icon="🔍", layout="wide")
 
-# Light theme touches: soft page background, rounded suggestion buttons, lighter sidebar.
-st.markdown(
-    """
-    <style>
-    .stApp { background-color: #FAFCFF; }
-    section[data-testid="stSidebar"] { background-color: #F3F7FB; }
-    div.stButton > button {
-        border-radius: 20px;
-        border: 2px solid #BBD6F0;
-        background-color: #FFFFFF;
-        color: #1B4965;
-    }
-    div.stButton > button:hover {
-        border-color: #5FA8D3;
-        color: #0B3954;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+# # Light theme touches: soft page background, rounded suggestion buttons, lighter sidebar.
+# st.markdown(
+#     """
+#     <style>
+#     .stApp { background-color: #FAFCFF; }
+#     section[data-testid="stSidebar"] { background-color: #F3F7FB; }
+#     div.stButton > button {
+#         border-radius: 20px;
+#         border: 2px solid #BBD6F0;
+#         background-color: #FFFFFF;
+#         color: #1B4965;
+#     }
+#     div.stButton > button:hover {
+#         border-color: #5FA8D3;
+#         color: #0B3954;
+#     }
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
 
-st.title("🔬 Melanoma Research Assistant - MelAI")
+# st.title("🔍 Mel-AI — Melanoma Research Assistant")
+# st.caption(
+#     "Ask about melanoma research literature or melanoma-relevant drugs. Answers are grounded in "
+#     "retrieved PubMed abstracts and PubChem/ChEMBL drug data, with citations. Remembers this "
+#     "conversation's context. Not medical advice."
+# )
+
+# index, literature_retriever, drugs_retriever, router_llm, chain = load_resources()
+
+# # --- Knowledge base metrics row ---
+# m1, m2 = st.columns(2)
+# m1.metric("📚 PubMed articles indexed", f"{NUM_ARTICLES_INDEXED:,}")
+# m2.metric("💊 Drugs covered", f"{NUM_DRUGS_COVERED}")
+
+# st.divider()
+
+st.set_page_config(page_title="Mel-AI", page_icon="🔍", layout="wide")
+
+# --- Theme: gradient title/sidebar, gradient metric cards, distinct gradients per chat role ---
+# st.markdown(
+#     """
+#     <style>
+#     .stApp { background-color: #FAFCFF; }
+
+#     /* Sidebar gradient */
+#     section[data-testid="stSidebar"] {
+#         background: linear-gradient(180deg, #EAF4FC 0%, #F3F7FB 60%, #FDF7FB 100%);
+#     }
+
+#     /* Gradient title */
+#     .gradient-title {
+#         font-size: 2.4rem;
+#         font-weight: 800;
+#         background: linear-gradient(90deg, #1B4965 0%, #5FA8D3 50%, #BC6C8F 100%);
+#         -webkit-background-clip: text;
+#         -webkit-text-fill-color: transparent;
+#         background-clip: text;
+#         margin-bottom: 0.2rem;
+#     }
+
+#     /* Suggestion buttons */
+#     div.stButton > button {
+#         border-radius: 20px;
+#         border: 2px solid #BBD6F0;
+#         background-color: #FFFFFF;
+#         color: #1B4965;
+#         transition: all 0.2s ease-in-out;
+#     }
+#     div.stButton > button:hover {
+#         border-color: #5FA8D3;
+#         color: #0B3954;
+#         transform: translateY(-1px);
+#     }
+
+#     /* Metric cards — gradient background, stable Streamlit testid */
+#     div[data-testid="stMetric"] {
+#         background: linear-gradient(135deg, #5FA8D3 0%, #1B4965 100%);
+#         border-radius: 14px;
+#         padding: 14px 16px;
+#         box-shadow: 0 2px 6px rgba(27, 73, 101, 0.15);
+#     }
+#     div[data-testid="stMetric"] label,
+#     div[data-testid="stMetric"] div {
+#         color: #FFFFFF !important;
+#     }
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
+
+st.markdown("""
+<style>
+h1 {
+    background: linear-gradient(90deg, #8FC4EB, #A0F2A7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+section[data-testid="stSidebar"] {
+    background: linear-gradient(215deg, #8FC4EB20, #A0F2A7);
+}
+div[data-testid="stChatMessage"]:has(div[data-testid="stChatMessageAvatarUser"]) {
+    background-color: #EFF3FF;
+}
+div[data-testid="stChatMessage"]:has(div[data-testid="stChatMessageAvatarAssistant"]) {
+    background-color: #FFF4EC;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# Gradient title (replaces st.title so we can style the text directly)
+st.title('🔍 Mel-AI — Melanoma Research Assistant')
 st.caption(
-    "Ask about melanoma research literature or melanoma-relevant drugs. Answers are grounded in "
-    "retrieved PubMed abstracts and PubChem/ChEMBL drug data, with citations. Remembers this "
-    "conversation's context. Not medical advice."
+    "A focused research companion for melanoma — grounded in PubMed literature and "
+    "PubChem/ChEMBL drug data, with citations for every claim. Remembers your conversation "
+    "so follow-up questions work naturally. Built for exploration, not diagnosis."
 )
 
 index, literature_retriever, drugs_retriever, router_llm, chain = load_resources()
 
-# --- Knowledge base metrics row ---
+# --- Knowledge base metrics row (now gradient cards via the CSS above) ---
 m1, m2 = st.columns(2)
-m1.metric("📚 PubMed articles indexed", f"{NUM_ARTICLES_INDEXED:,}")
-m2.metric("💊 Drugs covered", f"{NUM_DRUGS_COVERED}")
+m1.markdown(
+            f'<div style="background-color:#EFF3FF; padding:10px 14px; '
+            f'border-radius:12px; line-height:1.5;">📚 <b>{NUM_ARTICLES_INDEXED:,}</b> PubMed Articles Indexed</div>',
+            unsafe_allow_html=True,
+        )
+m2.markdown(
+            f'<div style="background-color:#E8F5E9; padding:10px 14px; '
+            f'border-radius:12px; line-height:1.5;">💊 <b>{NUM_DRUGS_COVERED}</b> Drugs Covered</div>',
+            unsafe_allow_html=True,
+        )
 
 st.divider()
 
@@ -325,7 +423,7 @@ for msg in st.session_state.messages:
         render_sources(msg["sources"])
 
 # --- Input: typed question or a clicked suggestion ---
-typed_question = st.chat_input("e.g. What about dabrafenib combined with trametinib?")
+typed_question = st.chat_input("e.g. What does the literature say about survival rates for stage IV melanoma?")
 question_to_process = typed_question or st.session_state.pending_question
 st.session_state.pending_question = None  # reset so it only fires once
 
@@ -357,13 +455,14 @@ if question_to_process:
     st.rerun()  # refresh so the suggestion buttons disappear once a conversation has started
 
 with st.sidebar:
-    st.header("About")
+    st.header("About Mel-AI")
     st.write(
-        "This assistant routes each question to melanoma literature (PubMed), drug data "
-        "(PubChem/ChEMBL), or both, and remembers the current conversation so follow-up "
-        "questions work naturally."
+        "Mel-AI answers melanoma research questions using RAG over curated PubMed, PubChem, and ChEMBL data, with verifiable sources."
     )
-    st.caption(f"Memory window: last {MAX_HISTORY_TURNS} exchanges")
+    st.write(
+        "Questions are routed to literature, drug data, or both, with conversation context for natural follow-ups."
+    )
+    st.caption(f"🧠 Memory window: last {MAX_HISTORY_TURNS} exchanges")
     if st.button("🗑️ Clear conversation"):
         st.session_state.messages = []
         st.rerun()

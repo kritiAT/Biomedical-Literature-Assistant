@@ -8,3 +8,4 @@ langchain-chroma==1.1.0
 langchain-classic==1.0.8
 unstructured[pdf]==0.25.2
 lxml==6.1.1
+opencv-python-headless

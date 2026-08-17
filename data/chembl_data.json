@@ -1,0 +1,2257 @@
+{
+  "CHEMBL468": {
+    "name": "THALIDOMIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "CRL4(CRBN) E3 ubiquitin ligase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3833061"
+    ],
+    "indications": [
+      "immune system disease",
+      "Crohn's disease",
+      "systemic scleroderma",
+      "sarcoma",
+      "multiple myeloma",
+      "primary myelofibrosis",
+      "epilepsy",
+      "colorectal adenocarcinoma",
+      "neoplasm",
+      "HIV infection"
+    ]
+  },
+  "CHEMBL554": {
+    "name": "LAPATINIB",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "neoplasm",
+      "head and neck squamous cell carcinoma",
+      "breast carcinoma",
+      "breast neoplasm",
+      "chronic kidney disease",
+      "melanoma",
+      "squamous cell carcinoma",
+      "non-small cell lung carcinoma",
+      "adenocarcinoma",
+      "colorectal adenocarcinoma"
+    ]
+  },
+  "CHEMBL1373": {
+    "name": "MODAFINIL",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Dopamine transporter inhibitor"
+    ],
+    "targets": [
+      "CHEMBL238"
+    ],
+    "indications": [
+      "attention deficit hyperactivity disorder",
+      "cocaine dependence",
+      "methamphetamine dependence",
+      "brain neoplasm",
+      "orthostatic hypotension",
+      "post-traumatic stress disorder",
+      "sleep apnea",
+      "Ewing sarcoma",
+      "stroke",
+      "obstructive sleep apnea"
+    ]
+  },
+  "CHEMBL1421": {
+    "name": "DASATINIB ANHYDROUS",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tyrosine-protein kinase ABL inhibitor",
+      "Platelet-derived growth factor receptor beta inhibitor",
+      "Stem cell growth factor receptor inhibitor",
+      "Ephrin type-A receptor 2 inhibitor",
+      "SRC inhibitor",
+      "Bcr/Abl fusion protein inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2363074",
+      "CHEMBL1862",
+      "CHEMBL2096618",
+      "CHEMBL1936",
+      "CHEMBL2068",
+      "CHEMBL1913"
+    ],
+    "indications": [
+      "chronic lymphocytic leukemia",
+      "leukemia",
+      "multiple myeloma",
+      "non-Hodgkins lymphoma",
+      "non-small cell lung carcinoma",
+      "pancreatic carcinoma",
+      "squamous cell lung carcinoma",
+      "chronic myelogenous leukemia",
+      "acute lymphoblastic leukemia",
+      "glioblastoma multiforme"
+    ]
+  },
+  "CHEMBL553025": {
+    "name": "VINORELBINE",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "neoplasm",
+      "non-small cell lung carcinoma",
+      "mesothelioma",
+      "breast neoplasm",
+      "cutaneous melanoma",
+      "Hodgkins lymphoma",
+      "carcinoma",
+      "diffuse large B-cell lymphoma",
+      "sarcoma",
+      "small cell lung carcinoma"
+    ]
+  },
+  "CHEMBL1201010": {
+    "name": "FLUDROCORTISONE ACETATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Mineralocorticoid receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL1994"
+    ],
+    "indications": [
+      "septic shock",
+      "melanoma",
+      "sensorineural hearing loss",
+      "primary adrenal insufficiency",
+      "depressive disorder",
+      "severe acute respiratory syndrome",
+      "Parkinson disease",
+      "ovarian hyperstimulation syndrome",
+      "chronic primary adrenal insufficiency",
+      "adrenogenital syndrome"
+    ]
+  },
+  "CHEMBL4204794": {
+    "name": "AVAPRITINIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Stem cell growth factor receptor inhibitor",
+      "Platelet-derived growth factor receptor alpha inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1936",
+      "CHEMBL2007"
+    ],
+    "indications": [
+      "mast-cell leukemia",
+      "systemic mastocytosis",
+      "central nervous system cancer",
+      "neoplasm",
+      "gastrointestinal stromal tumor",
+      "cancer",
+      "acute myeloid leukemia"
+    ]
+  },
+  "CHEMBL4297723": {
+    "name": "CEMIPLIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death protein 1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3307223"
+    ],
+    "indications": [
+      "glioblastoma multiforme",
+      "lymphoma",
+      "renal cell carcinoma",
+      "squamous cell carcinoma",
+      "melanoma",
+      "HIV infection",
+      "non-small cell lung carcinoma",
+      "basal cell carcinoma",
+      "hepatitis B virus infection",
+      "Hodgkins lymphoma"
+    ]
+  },
+  "CHEMBL467": {
+    "name": "HYDROXYUREA",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095215"
+    ],
+    "indications": [
+      "leukemia",
+      "melanoma",
+      "essential thrombocythemia",
+      "polycythemia vera",
+      "myelodysplastic syndrome",
+      "neoplasm",
+      "glioblastoma multiforme",
+      "acute myeloid leukemia",
+      "acute promyelocytic leukemia",
+      "carcinoma"
+    ]
+  },
+  "CHEMBL513": {
+    "name": "CARMUSTINE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Glutathione reductase inhibitor",
+      "DNA inhibitor",
+      "RNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2755",
+      "CHEMBL2311222",
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "astrocytoma",
+      "brain neoplasm",
+      "glioblastoma multiforme",
+      "medulloblastoma",
+      "multiple myeloma",
+      "Hodgkins lymphoma",
+      "neoplasm",
+      "chronic lymphocytic leukemia",
+      "neoplasm of mature B-cells",
+      "unspecified peripheral T-cell lymphoma"
+    ]
+  },
+  "CHEMBL803": {
+    "name": "CYTARABINE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor",
+      "RNA inhibitor",
+      "DNA polymerase (alpha/delta/epsilon) inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311222",
+      "CHEMBL2311221",
+      "CHEMBL2363042"
+    ],
+    "indications": [
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia",
+      "lymphoma",
+      "leukemia",
+      "sarcoma",
+      "neoplasm",
+      "acute promyelocytic leukemia",
+      "Mantle cell lymphoma",
+      "B-cell acute lymphoblastic leukemia",
+      "chronic lymphocytic leukemia"
+    ]
+  },
+  "CHEMBL414804": {
+    "name": "OXALIPLATIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "colorectal adenocarcinoma",
+      "stomach neoplasm",
+      "gastric adenocarcinoma",
+      "hepatocellular carcinoma",
+      "esophageal carcinoma",
+      "biliary tract neoplasm",
+      "non-Hodgkins lymphoma",
+      "gastric carcinoma",
+      "Hodgkins lymphoma",
+      "ovarian carcinoma"
+    ]
+  },
+  "CHEMBL608533": {
+    "name": "MIDOSTAURIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tyrosine-protein kinase receptor FLT3 inhibitor",
+      "Stem cell growth factor receptor inhibitor",
+      "Platelet-derived growth factor receptor inhibitor",
+      "Protein kinase C (PKC) inhibitor",
+      "Vascular endothelial growth factor receptor 2 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1974",
+      "CHEMBL2093867",
+      "CHEMBL1936",
+      "CHEMBL2095189",
+      "CHEMBL279"
+    ],
+    "indications": [
+      "acute myeloid leukemia",
+      "leukemia",
+      "liver disease",
+      "neoplasm",
+      "rectum cancer",
+      "myelodysplastic syndrome",
+      "mast-cell leukemia",
+      "acute lymphoblastic leukemia",
+      "systemic mastocytosis",
+      "Mastocytosis"
+    ]
+  },
+  "CHEMBL1096882": {
+    "name": "FLUDARABINE PHOSPHATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Ribonucleoside-diphosphate reductase RR1 inhibitor",
+      "DNA polymerase (alpha/delta/epsilon) inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095215",
+      "CHEMBL2363042"
+    ],
+    "indications": [
+      "chronic lymphocytic leukemia",
+      "lymphoma",
+      "acute myeloid leukemia",
+      "neoplasm",
+      "sarcoma",
+      "acute lymphoblastic leukemia",
+      "Aplastic anemia",
+      "lymphoid leukemia",
+      "cutaneous melanoma",
+      "B-cell acute lymphoblastic leukemia"
+    ]
+  },
+  "CHEMBL1200485": {
+    "name": "SORAFENIB TOSYLATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Serine/threonine-protein kinase RAF inhibitor",
+      "Platelet-derived growth factor receptor beta inhibitor",
+      "Stem cell growth factor receptor inhibitor",
+      "Tyrosine-protein kinase receptor FLT3 inhibitor",
+      "Serine/threonine-protein kinase B-raf inhibitor",
+      "Vascular endothelial growth factor receptor inhibitor",
+      "Tyrosine-protein kinase receptor RET inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1974",
+      "CHEMBL1936",
+      "CHEMBL2041",
+      "CHEMBL2095227",
+      "CHEMBL5145",
+      "CHEMBL1906",
+      "CHEMBL1913"
+    ],
+    "indications": [
+      "hepatocellular carcinoma",
+      "neoplasm",
+      "small cell lung carcinoma",
+      "pancreatic carcinoma",
+      "non-small cell lung carcinoma",
+      "multiple myeloma",
+      "melanoma",
+      "clear cell renal carcinoma",
+      "mesothelioma",
+      "prostate adenocarcinoma"
+    ]
+  },
+  "CHEMBL1201568": {
+    "name": "PEGFILGRASTIM",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Granulocyte colony stimulating factor receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL1996"
+    ],
+    "indications": [
+      "leukemia",
+      "non-Hodgkins lymphoma",
+      "multiple myeloma",
+      "breast carcinoma",
+      "lymphoma",
+      "lymphoid neoplasm",
+      "non-small cell lung carcinoma",
+      "head and neck squamous cell carcinoma",
+      "Hodgkins lymphoma",
+      "acute lymphoblastic leukemia"
+    ]
+  },
+  "CHEMBL1201564": {
+    "name": "INTERFERON GAMMA-1B",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Interferon gamma receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2364171"
+    ],
+    "indications": [
+      "cutaneous melanoma",
+      "leukemia",
+      "lymphoma",
+      "mesothelioma",
+      "neoplasm",
+      "psoriasis",
+      "melanoma",
+      "HIV infection",
+      "idiopathic pulmonary fibrosis",
+      "multiple myeloma"
+    ]
+  },
+  "CHEMBL1201529": {
+    "name": "TECHNETIUM TC 99M SULFUR COLLOID",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Diagnostic agent"
+    ],
+    "targets": [],
+    "indications": [
+      "melanoma",
+      "breast carcinoma",
+      "breast cancer",
+      "neoplasm",
+      "non-small cell lung carcinoma",
+      "cystic fibrosis",
+      "sebaceous adenocarcinoma"
+    ]
+  },
+  "CHEMBL1201670": {
+    "name": "SARGRAMOSTIM",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Granulocyte-macrophage colony-stimulating factor receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2364169"
+    ],
+    "indications": [
+      "Crohn's disease",
+      "prostate carcinoma",
+      "Congenital pulmonary alveolar proteinosis",
+      "leukemia",
+      "melanoma",
+      "cutaneous melanoma",
+      "male breast carcinoma",
+      "neoplasm",
+      "neuroblastoma",
+      "sarcoma"
+    ]
+  },
+  "CHEMBL1201576": {
+    "name": "RITUXIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "B-lymphocyte antigen CD20 binding agent"
+    ],
+    "targets": [
+      "CHEMBL2058"
+    ],
+    "indications": [
+      "acute graft vs. host disease",
+      "chronic fatigue syndrome",
+      "Hodgkins lymphoma",
+      "lymphoma",
+      "membranous glomerulonephritis",
+      "neoplasm of mature B-cells",
+      "non-Hodgkins lymphoma",
+      "rheumatoid arthritis",
+      "systemic scleroderma",
+      "MALT lymphoma"
+    ]
+  },
+  "CHEMBL1533310": {
+    "name": "HISTAMINE DIHYDROCHLORIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Topical analgesic",
+      "Immunoprotectant"
+    ],
+    "targets": [],
+    "indications": [
+      "cutaneous melanoma",
+      "leukemia",
+      "kidney cancer",
+      "neoplasm",
+      "acute myeloid leukemia"
+    ]
+  },
+  "CHEMBL2105717": {
+    "name": "CABOZANTINIB",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "neoplasm",
+      "renal cell carcinoma",
+      "prostate adenocarcinoma",
+      "non-small cell lung carcinoma",
+      "hepatocellular carcinoma",
+      "multiple myeloma",
+      "liver disease",
+      "acute myeloid leukemia",
+      "clear cell renal carcinoma",
+      "glioblastoma multiforme"
+    ]
+  },
+  "CHEMBL2108508": {
+    "name": "INTERFERON ALFA-2A",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Interferon alpha/beta receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2364170"
+    ],
+    "indications": [
+      "melanoma",
+      "renal cell carcinoma",
+      "psoriasis",
+      "acute lymphoblastic leukemia",
+      "lymphoma",
+      "HIV infection",
+      "multiple myeloma",
+      "metastatic melanoma",
+      "hepatitis C virus infection",
+      "chronic hepatitis C virus infection"
+    ]
+  },
+  "CHEMBL2108727": {
+    "name": "TALIMOGENE LAHERPAREPVEC",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Melanoma cell disrupting agent"
+    ],
+    "targets": [
+      "CHEMBL614126"
+    ],
+    "indications": [
+      "melanoma",
+      "breast carcinoma",
+      "pancreatic carcinoma",
+      "central nervous system cancer",
+      "cutaneous melanoma",
+      "soft tissue sarcoma",
+      "Kaposi's sarcoma",
+      "head and neck carcinoma",
+      "breast cancer",
+      "epithelioid sarcoma"
+    ]
+  },
+  "CHEMBL3545252": {
+    "name": "DOCETAXEL",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tubulin inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095182"
+    ],
+    "indications": [
+      "breast carcinoma",
+      "carcinoma",
+      "gastric carcinoma",
+      "nasopharyngeal neoplasm",
+      "neoplasm",
+      "non-small cell lung carcinoma",
+      "prostate adenocarcinoma",
+      "prostate carcinoma",
+      "squamous cell lung carcinoma",
+      "upper aerodigestive tract neoplasm"
+    ]
+  },
+  "CHEMBL6067493": {
+    "name": "BLEOMYCIN SULFATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "squamous cell carcinoma",
+      "Hodgkins lymphoma",
+      "cutaneous melanoma",
+      "germ cell tumor",
+      "lymphoma",
+      "multiple myeloma",
+      "pancreatic carcinoma",
+      "testicular neoplasm",
+      "head and neck malignant neoplasia",
+      "Lymphoma, AIDS-Related"
+    ]
+  },
+  "CHEMBL109": {
+    "name": "VALPROIC ACID",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Succinate semialdehyde dehydrogenase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1911"
+    ],
+    "indications": [
+      "epilepsy",
+      "pancreatic carcinoma",
+      "sarcoma",
+      "HIV infection",
+      "complex partial epilepsy",
+      "head and neck squamous cell carcinoma",
+      "melanoma",
+      "thyroid neoplasm",
+      "neuropathic pain",
+      "androgenetic alopecia"
+    ]
+  },
+  "CHEMBL635": {
+    "name": "PREDNISONE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Glucocorticoid receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2034"
+    ],
+    "indications": [
+      "Nasal Cavity Polyp",
+      "pulmonary sarcoidosis",
+      "rheumatoid arthritis",
+      "Sciatica",
+      "Granulomatosis with Polyangiitis",
+      "chronic obstructive pulmonary disease",
+      "heart failure",
+      "multiple myeloma",
+      "pneumonia",
+      "prostate carcinoma"
+    ]
+  },
+  "CHEMBL1282": {
+    "name": "IMIQUIMOD",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Toll-like receptor 7 agonist"
+    ],
+    "targets": [
+      "CHEMBL5936"
+    ],
+    "indications": [
+      "actinic keratosis",
+      "basal cell carcinoma",
+      "melanoma",
+      "viral disease",
+      "vulvar intraepithelial neoplasia",
+      "glioblastoma multiforme",
+      "cervical carcinoma",
+      "chronic lymphocytic leukemia",
+      "cutaneous melanoma",
+      "leukemia"
+    ]
+  },
+  "CHEMBL1351": {
+    "name": "CARBOPLATIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "ovarian carcinoma",
+      "ependymoma",
+      "breast carcinoma",
+      "non-small cell lung carcinoma",
+      "neoplasm",
+      "cervical carcinoma",
+      "prostate adenocarcinoma",
+      "glioblastoma multiforme",
+      "prostate carcinoma",
+      "neoplasm of mature B-cells"
+    ]
+  },
+  "CHEMBL374478": {
+    "name": "RIFAMPIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Bacterial DNA-directed RNA polymerase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364672"
+    ],
+    "indications": [
+      "pulmonary tuberculosis",
+      "melanoma",
+      "non-small cell lung carcinoma",
+      "neoplasm",
+      "Constipation",
+      "infection",
+      "lymphoma",
+      "multiple system atrophy",
+      "chronic lymphocytic leukemia",
+      "Hodgkins lymphoma"
+    ]
+  },
+  "CHEMBL182": {
+    "name": "GANCICLOVIR",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Human herpesvirus 1 DNA polymerase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1872"
+    ],
+    "indications": [
+      "viral disease",
+      "cytomegalovirus infection",
+      "hepatocellular carcinoma",
+      "cutaneous melanoma",
+      "glioblastoma multiforme",
+      "infection",
+      "lymphoma",
+      "mesothelioma",
+      "neuroblastoma",
+      "kidney disease"
+    ]
+  },
+  "CHEMBL1489": {
+    "name": "AZACITIDINE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA (cytosine-5)-methyltransferase 3A inhibitor",
+      "DNA (cytosine-5)-methyltransferase 1 inhibitor",
+      "DNA inhibitor",
+      "RNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1992",
+      "CHEMBL2311222",
+      "CHEMBL2311221",
+      "CHEMBL1993"
+    ],
+    "indications": [
+      "acute myeloid leukemia",
+      "myelodysplastic syndrome",
+      "non-small cell lung carcinoma",
+      "refractory anemia with excess blasts",
+      "leukemia",
+      "pancreatic carcinoma",
+      "neoplasm",
+      "chronic lymphocytic leukemia",
+      "Thrombocytopenia",
+      "chronic myelomonocytic leukemia"
+    ]
+  },
+  "CHEMBL483254": {
+    "name": "PANOBINOSTAT",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "neoplasm",
+      "multiple myeloma",
+      "Cutaneous T-cell lymphoma",
+      "diffuse large B-cell lymphoma",
+      "Hodgkins lymphoma",
+      "chronic myelogenous leukemia",
+      "glioblastoma multiforme",
+      "melanoma",
+      "acute myeloid leukemia",
+      "HIV infection"
+    ]
+  },
+  "CHEMBL1200981": {
+    "name": "EPIRUBICIN HYDROCHLORIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "adenocarcinoma",
+      "hepatocellular carcinoma",
+      "acute lymphoblastic leukemia",
+      "breast carcinoma",
+      "carcinoma",
+      "cutaneous melanoma",
+      "gastric adenocarcinoma",
+      "leukemia",
+      "lymphoma",
+      "mesothelioma"
+    ]
+  },
+  "CHEMBL1201138": {
+    "name": "LEUCOVORIN CALCIUM",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "colorectal adenocarcinoma",
+      "osteosarcoma",
+      "gastric carcinoma",
+      "hepatocellular carcinoma",
+      "head and neck squamous cell carcinoma",
+      "Hodgkins lymphoma",
+      "myelodysplastic syndrome",
+      "unspecified peripheral T-cell lymphoma",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia"
+    ]
+  },
+  "CHEMBL1201550": {
+    "name": "DENILEUKIN DIFTITOX",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Elongation factor 2 inhibitor",
+      "Interleukin-2 receptor binding agent"
+    ],
+    "targets": [
+      "CHEMBL1795108",
+      "CHEMBL2364167"
+    ],
+    "indications": [
+      "multiple myeloma",
+      "melanoma",
+      "pancreatic carcinoma",
+      "neoplasm",
+      "male breast carcinoma",
+      "lymphoma",
+      "T-cell acute lymphoblastic leukemia",
+      "unspecified peripheral T-cell lymphoma",
+      "chronic lymphocytic leukemia",
+      "acute myeloid leukemia"
+    ]
+  },
+  "CHEMBL1201752": {
+    "name": "IXABEPILONE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tubulin inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095182"
+    ],
+    "indications": [
+      "breast carcinoma",
+      "neoplasm",
+      "stomach neoplasm",
+      "melanoma",
+      "prostate adenocarcinoma",
+      "clear cell renal carcinoma",
+      "Burkitts lymphoma",
+      "diffuse large B-cell lymphoma",
+      "leukemia",
+      "lymphoma"
+    ]
+  },
+  "CHEMBL1789844": {
+    "name": "IPILIMUMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Cytotoxic T-lymphocyte protein 4 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364164"
+    ],
+    "indications": [
+      "carcinoma",
+      "melanoma",
+      "prostate carcinoma",
+      "metastatic melanoma",
+      "non-small cell lung carcinoma",
+      "pancreatic carcinoma",
+      "neoplasm",
+      "chronic myelogenous leukemia",
+      "cutaneous melanoma",
+      "prostate adenocarcinoma"
+    ]
+  },
+  "CHEMBL2103875": {
+    "name": "TRAMETINIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Dual specificity mitogen-activated protein kinase kinase; MEK1/2 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2111289"
+    ],
+    "indications": [
+      "neoplasm",
+      "acute myeloid leukemia",
+      "non-small cell lung carcinoma",
+      "metastatic prostate cancer",
+      "mouth neoplasm",
+      "melanoma",
+      "hepatocellular carcinoma",
+      "cutaneous melanoma",
+      "follicular thyroid carcinoma",
+      "leukemia"
+    ]
+  },
+  "CHEMBL4297843": {
+    "name": "TORIPALIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death protein 1 antagonist"
+    ],
+    "targets": [
+      "CHEMBL3307223"
+    ],
+    "indications": [
+      "hepatocellular carcinoma",
+      "lymphoma",
+      "non-small cell lung carcinoma",
+      "cholangiocarcinoma",
+      "triple-negative breast cancer",
+      "esophageal squamous cell carcinoma",
+      "head and neck malignant neoplasia",
+      "colorectal carcinoma",
+      "undifferentiated pleomorphic sarcoma",
+      "head and neck squamous cell carcinoma"
+    ]
+  },
+  "CHEMBL5314346": {
+    "name": "VERTEPORFIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "histoplasmosis",
+      "ocular vascular disease",
+      "age-related macular degeneration",
+      "cutaneous melanoma",
+      "pancreatic carcinoma",
+      "pathological myopia",
+      "macular degeneration",
+      "pleural effusion",
+      "basal cell carcinoma",
+      "wet macular degeneration"
+    ]
+  },
+  "CHEMBL503": {
+    "name": "LOVASTATIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "HMG-CoA reductase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL402"
+    ],
+    "indications": [
+      "chronic obstructive pulmonary disease",
+      "HIV infection",
+      "cardiovascular disease",
+      "rheumatoid arthritis",
+      "stroke",
+      "melanoma",
+      "acute myeloid leukemia",
+      "metabolic disease",
+      "intermittent vascular claudication",
+      "Myocardial Ischemia"
+    ]
+  },
+  "CHEMBL820": {
+    "name": "BUSULFAN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "chronic myelogenous leukemia",
+      "brain neoplasm",
+      "Ewing sarcoma",
+      "leukemia",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia",
+      "multiple myeloma",
+      "immune system disease",
+      "chronic lymphocytic leukemia",
+      "Hodgkins lymphoma"
+    ]
+  },
+  "CHEMBL1370": {
+    "name": "BUDESONIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Glucocorticoid receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2034"
+    ],
+    "indications": [
+      "allergic rhinitis",
+      "chronic obstructive pulmonary disease",
+      "ulcerative colitis",
+      "Crohn's disease",
+      "eosinophilic esophagitis",
+      "Nasal congestion",
+      "seasonal allergic rhinitis",
+      "Airway obstruction",
+      "IGA glomerulonephritis",
+      "Nasal Cavity Polyp"
+    ]
+  },
+  "CHEMBL1751": {
+    "name": "DIGOXIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Sodium/potassium-transporting ATPase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095186"
+    ],
+    "indications": [
+      "epilepsy",
+      "hepatitis C virus infection",
+      "atrial fibrillation",
+      "cardiovascular disease",
+      "rheumatoid arthritis",
+      "heart failure",
+      "HIV infection",
+      "myelodysplastic syndrome",
+      "acute myeloid leukemia",
+      "diabetes mellitus"
+    ]
+  },
+  "CHEMBL1201567": {
+    "name": "FILGRASTIM",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Granulocyte colony stimulating factor receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL1996"
+    ],
+    "indications": [
+      "cirrhosis of liver",
+      "leukemia",
+      "neoplasm",
+      "Chagas cardiomyopathy",
+      "Abnormality of blood and blood-forming tissues",
+      "acute myeloid leukemia",
+      "infertility",
+      "multiple myeloma",
+      "non-small cell lung carcinoma",
+      "myelodysplastic syndrome"
+    ]
+  },
+  "CHEMBL1201605": {
+    "name": "DACLIZUMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Interleukin-2 receptor inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364167"
+    ],
+    "indications": [
+      "psoriasis",
+      "immune system disease",
+      "relapsing-remitting multiple sclerosis",
+      "myelodysplastic syndrome",
+      "diabetes mellitus",
+      "leukemia",
+      "lymphoma",
+      "neoplasm",
+      "ulcerative colitis",
+      "melanoma"
+    ]
+  },
+  "CHEMBL1946170": {
+    "name": "REGORAFENIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tyrosine-protein kinase ABL inhibitor",
+      "Serine/threonine-protein kinase RAF inhibitor",
+      "Stem cell growth factor receptor inhibitor",
+      "Fibroblast growth factor receptor 1 inhibitor",
+      "MAP kinase p38 beta inhibitor",
+      "Fibroblast growth factor receptor 2 inhibitor",
+      "Tyrosine-protein kinase FRK inhibitor",
+      "Discoidin domain-containing receptor 2 inhibitor",
+      "Serine/threonine-protein kinase B-raf inhibitor",
+      "Tyrosine-protein kinase TIE-2 inhibitor",
+      "Platelet-derived growth factor receptor inhibitor",
+      "Vascular endothelial growth factor receptor inhibitor",
+      "Tyrosine-protein kinase receptor RET inhibitor",
+      "Ephrin type-A receptor 2 inhibitor",
+      "Nerve growth factor receptor Trk-A inhibitor"
+    ],
+    "targets": [
+      "CHEMBL5122",
+      "CHEMBL4142",
+      "CHEMBL1862",
+      "CHEMBL4128",
+      "CHEMBL1936",
+      "CHEMBL2041",
+      "CHEMBL2068",
+      "CHEMBL2095227",
+      "CHEMBL1906",
+      "CHEMBL3961",
+      "CHEMBL5145",
+      "CHEMBL2095189",
+      "CHEMBL3650",
+      "CHEMBL4223",
+      "CHEMBL2815"
+    ],
+    "indications": [
+      "colorectal adenocarcinoma",
+      "adenoid cystic carcinoma",
+      "bile duct carcinoma",
+      "pancreatic carcinoma",
+      "sarcoma",
+      "hepatocellular carcinoma",
+      "cholangiocarcinoma",
+      "neoplasm",
+      "ovarian neoplasm",
+      "melanoma"
+    ]
+  },
+  "CHEMBL2105729": {
+    "name": "DABRAFENIB MESYLATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Serine/threonine-protein kinase B-raf inhibitor"
+    ],
+    "targets": [
+      "CHEMBL5145"
+    ],
+    "indications": [
+      "melanoma",
+      "metastatic melanoma",
+      "cutaneous melanoma",
+      "thyroid carcinoma",
+      "Erdheim-Chester disease",
+      "multiple myeloma",
+      "glioma"
+    ]
+  },
+  "CHEMBL3137343": {
+    "name": "PEMBROLIZUMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death protein 1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3307223"
+    ],
+    "indications": [
+      "melanoma",
+      "non-small cell lung carcinoma",
+      "pancreatic carcinoma",
+      "metastatic melanoma",
+      "renal cell carcinoma",
+      "ovarian neoplasm",
+      "neoplasm",
+      "head and neck squamous cell carcinoma",
+      "hepatocellular carcinoma",
+      "gastric adenocarcinoma"
+    ]
+  },
+  "CHEMBL4297729": {
+    "name": "COSIBELIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death 1 ligand 1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3580522"
+    ],
+    "indications": [
+      "chronic lymphocytic leukemia",
+      "non-small cell lung carcinoma",
+      "neoplasm",
+      "head and neck squamous cell carcinoma"
+    ]
+  },
+  "CHEMBL4298037": {
+    "name": "RETIFANLIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death protein 1 antagonist"
+    ],
+    "targets": [
+      "CHEMBL3307223"
+    ],
+    "indications": [
+      "neoplasm",
+      "head and neck squamous cell carcinoma",
+      "glioblastoma multiforme",
+      "squamous cell carcinoma",
+      "non-small cell lung carcinoma",
+      "Merkel cell skin cancer",
+      "breast cancer",
+      "triple-negative breast cancer",
+      "urothelial carcinoma",
+      "carcinoid syndrome"
+    ]
+  },
+  "CHEMBL4298124": {
+    "name": "DOSTARLIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death protein 1 antagonist"
+    ],
+    "targets": [
+      "CHEMBL3307223"
+    ],
+    "indications": [
+      "cervical carcinoma",
+      "neoplasm",
+      "sarcoma",
+      "melanoma",
+      "ovarian neoplasm",
+      "head and neck malignant neoplasia",
+      "rectum cancer",
+      "liver cancer",
+      "cervical cancer",
+      "ovarian cancer"
+    ]
+  },
+  "CHEMBL428647": {
+    "name": "PACLITAXEL",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tubulin inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095182"
+    ],
+    "indications": [
+      "breast carcinoma",
+      "gastric adenocarcinoma",
+      "gastric carcinoma",
+      "melanoma",
+      "metastatic melanoma",
+      "non-small cell lung carcinoma",
+      "cervical carcinoma",
+      "neoplasm",
+      "ovarian carcinoma",
+      "Coronary Restenosis"
+    ]
+  },
+  "CHEMBL131": {
+    "name": "PREDNISOLONE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Glucocorticoid receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2034"
+    ],
+    "indications": [
+      "eye inflammation",
+      "Nasal congestion",
+      "nephrotic syndrome",
+      "rheumatoid arthritis",
+      "leprosy",
+      "multiple myeloma",
+      "chronic obstructive pulmonary disease",
+      "ulcerative colitis",
+      "HIV infection",
+      "atopic eczema"
+    ]
+  },
+  "CHEMBL810": {
+    "name": "TEMOZOLOMIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "central nervous system cancer",
+      "glioblastoma multiforme",
+      "leukemia",
+      "melanoma",
+      "brain neoplasm",
+      "cutaneous melanoma",
+      "small cell lung carcinoma",
+      "non-small cell lung carcinoma",
+      "neuroblastoma",
+      "Ewing sarcoma"
+    ]
+  },
+  "CHEMBL957": {
+    "name": "BOSENTAN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Endothelin receptor, ET-A/ET-B antagonist"
+    ],
+    "targets": [
+      "CHEMBL2096678"
+    ],
+    "indications": [
+      "pulmonary arterial hypertension",
+      "chronic obstructive pulmonary disease",
+      "idiopathic pulmonary fibrosis",
+      "melanoma",
+      "systemic scleroderma",
+      "congenital heart disease",
+      "anterior ischemic optic neuropathy",
+      "congestive heart failure",
+      "hypertension",
+      "cirrhosis of liver"
+    ]
+  },
+  "CHEMBL975": {
+    "name": "MESNA",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Unknown"
+    ],
+    "targets": [],
+    "indications": [
+      "chronic kidney disease",
+      "chronic lymphocytic leukemia",
+      "neoplasm of mature B-cells",
+      "hepatocellular carcinoma",
+      "Hodgkins lymphoma",
+      "myelodysplastic syndrome",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia",
+      "Burkitts lymphoma",
+      "Crohn's disease"
+    ]
+  },
+  "CHEMBL343448": {
+    "name": "ROMIDEPSIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Histone deacetylase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2093865"
+    ],
+    "indications": [
+      "Cutaneous T-cell lymphoma",
+      "unspecified peripheral T-cell lymphoma",
+      "neoplasm",
+      "multiple myeloma",
+      "melanoma",
+      "anaplastic astrocytoma",
+      "anaplastic oligodendroglioma",
+      "gliosarcoma",
+      "chronic lymphocytic leukemia",
+      "HIV-1 infection"
+    ]
+  },
+  "CHEMBL255863": {
+    "name": "NILOTINIB",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "neoplasm",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia",
+      "chronic myelogenous leukemia",
+      "melanoma",
+      "pulmonary arterial hypertension",
+      "cutaneous melanoma",
+      "leukemia",
+      "metastatic melanoma",
+      "soft tissue sarcoma"
+    ]
+  },
+  "CHEMBL1201558": {
+    "name": "INTERFERON ALFA-2B",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Interferon alpha/beta receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2364170"
+    ],
+    "indications": [
+      "hepatitis C virus infection",
+      "neoplasm",
+      "chronic hepatitis C virus infection",
+      "cutaneous melanoma",
+      "melanoma",
+      "leukemia",
+      "hepatocellular carcinoma",
+      "chronic myelogenous leukemia",
+      "clear cell renal carcinoma",
+      "renal cell carcinoma"
+    ]
+  },
+  "CHEMBL1201733": {
+    "name": "PAZOPANIB HYDROCHLORIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Macrophage colony stimulating factor receptor inhibitor",
+      "Stem cell growth factor receptor inhibitor",
+      "Tyrosine-protein kinase LCK inhibitor",
+      "Fibroblast growth factor receptor 3 inhibitor",
+      "Fibroblast growth factor receptor 1 inhibitor",
+      "Platelet-derived growth factor receptor inhibitor",
+      "Vascular endothelial growth factor receptor inhibitor",
+      "Tyrosine-protein kinase ITK/TSK inhibitor"
+    ],
+    "targets": [
+      "CHEMBL258",
+      "CHEMBL2959",
+      "CHEMBL2742",
+      "CHEMBL1936",
+      "CHEMBL2095227",
+      "CHEMBL2095189",
+      "CHEMBL1844",
+      "CHEMBL3650"
+    ],
+    "indications": [
+      "sarcoma",
+      "prostate carcinoma",
+      "cutaneous melanoma",
+      "male breast carcinoma",
+      "mesothelioma",
+      "clear cell renal carcinoma",
+      "renal cell carcinoma",
+      "neoplasm",
+      "gliosarcoma",
+      "chromophobe renal cell carcinoma"
+    ]
+  },
+  "CHEMBL1201823": {
+    "name": "ABATACEPT",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "T-lymphocyte activation antigen CD86 inhibitor",
+      "T-lymphocyte activation antigen CD80 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364157",
+      "CHEMBL2364156"
+    ],
+    "indications": [
+      "diffuse scleroderma",
+      "rheumatoid arthritis",
+      "ankylosing spondylitis",
+      "Crohn's disease",
+      "Vitiligo",
+      "hypertension",
+      "psoriatic arthritis",
+      "ulcerative colitis",
+      "alopecia areata",
+      "juvenile idiopathic arthritis"
+    ]
+  },
+  "CHEMBL1237023": {
+    "name": "DENOSUMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tumor necrosis factor ligand superfamily member 11 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364162"
+    ],
+    "indications": [
+      "aortic stenosis",
+      "breast carcinoma",
+      "osteoporosis",
+      "postmenopausal osteoporosis",
+      "non-small cell lung carcinoma",
+      "rheumatoid arthritis",
+      "multiple myeloma",
+      "breast neoplasm",
+      "osteosarcoma",
+      "Crohn's disease"
+    ]
+  },
+  "CHEMBL2105741": {
+    "name": "TRAMETINIB DIMETHYL SULFOXIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor",
+      "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3587",
+      "CHEMBL2964"
+    ],
+    "indications": [
+      "metastatic melanoma",
+      "cutaneous melanoma",
+      "Erdheim-Chester disease",
+      "multiple myeloma",
+      "lung cancer",
+      "cancer",
+      "glioblastoma multiforme",
+      "melanoma",
+      "glioma"
+    ]
+  },
+  "CHEMBL2108875": {
+    "name": "TETANUS TOXOID",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tetanus toxoid vaccine antigen"
+    ],
+    "targets": [
+      "CHEMBL5500295"
+    ],
+    "indications": [
+      "neoplasm",
+      "pneumonia",
+      "HIV infection",
+      "chronic lymphocytic leukemia",
+      "cutaneous melanoma",
+      "infection",
+      "rheumatoid arthritis",
+      "multiple myeloma",
+      "Dengue Hemorrhagic Fever",
+      "meningococcal infection"
+    ]
+  },
+  "CHEMBL3301612": {
+    "name": "ENCORAFENIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Serine/threonine-protein kinase B-raf inhibitor"
+    ],
+    "targets": [
+      "CHEMBL5145"
+    ],
+    "indications": [
+      "melanoma",
+      "non-small cell lung carcinoma",
+      "neoplasm",
+      "multiple myeloma",
+      "metastatic melanoma",
+      "thyroid carcinoma",
+      "colorectal adenocarcinoma",
+      "hairy cell leukemia",
+      "cutaneous melanoma",
+      "pancreatic carcinoma"
+    ]
+  },
+  "CHEMBL4594535": {
+    "name": "SUGEMALIMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death 1 ligand 1 binding agent"
+    ],
+    "targets": [
+      "CHEMBL3580522"
+    ],
+    "indications": [
+      "Hodgkins lymphoma",
+      "lymphoma",
+      "neoplasm",
+      "small cell lung carcinoma",
+      "hepatocellular carcinoma",
+      "gastric adenocarcinoma",
+      "non-small cell lung carcinoma",
+      "cancer",
+      "extranodal nasal NK/T cell lymphoma",
+      "esophageal squamous cell carcinoma"
+    ]
+  },
+  "CHEMBL6067962": {
+    "name": "SODIUM STIBOGLUCONATE",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "myelodysplastic syndrome",
+      "injury",
+      "cutaneous Leishmaniasis",
+      "Leishmaniasis",
+      "visceral Leishmaniasis",
+      "melanoma",
+      "trypanosomiasis",
+      "cancer",
+      "neoplasm"
+    ]
+  },
+  "CHEMBL38": {
+    "name": "TRETINOIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Retinoic acid receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2363069"
+    ],
+    "indications": [
+      "acne",
+      "acute myeloid leukemia",
+      "lymphoma",
+      "neoplasm",
+      "rosacea",
+      "multiple myeloma",
+      "myelodysplastic syndrome",
+      "acute promyelocytic leukemia",
+      "cutaneous melanoma",
+      "leukemia"
+    ]
+  },
+  "CHEMBL416146": {
+    "name": "ETORICOXIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Cyclooxygenase-2 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL230"
+    ],
+    "indications": [
+      "rheumatic disease",
+      "pain",
+      "HIV infection",
+      "rheumatoid arthritis",
+      "ankylosing spondylitis",
+      "osteoarthritis, knee",
+      "injury",
+      "melanoma",
+      "bone neoplasm",
+      "Dysmenorrhea"
+    ]
+  },
+  "CHEMBL11359": {
+    "name": "CISPLATIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "head and neck squamous cell carcinoma",
+      "carcinoma",
+      "neoplasm",
+      "squamous cell carcinoma",
+      "melanoma",
+      "cervical carcinoma",
+      "cervical adenocarcinoma",
+      "non-small cell lung carcinoma",
+      "nasopharyngeal neoplasm",
+      "upper aerodigestive tract neoplasm"
+    ]
+  },
+  "CHEMBL112": {
+    "name": "ACETAMINOPHEN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Cyclooxygenase inhibitor",
+      "Anandamide amidohydrolase inhibitor",
+      "Vanilloid receptor opener"
+    ],
+    "targets": [
+      "CHEMBL4794",
+      "CHEMBL2243",
+      "CHEMBL2094253"
+    ],
+    "indications": [
+      "Fever",
+      "osteoarthritis, knee",
+      "pain",
+      "arthritis",
+      "Cleft palate",
+      "hypertension",
+      "injury",
+      "common cold",
+      "hemorrhage",
+      "morbid obesity"
+    ]
+  },
+  "CHEMBL34259": {
+    "name": "METHOTREXATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Dihydrofolate reductase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL202"
+    ],
+    "indications": [
+      "Crohn's disease",
+      "rheumatoid arthritis",
+      "ulcerative colitis",
+      "psoriasis",
+      "head and neck squamous cell carcinoma",
+      "psoriatic arthritis",
+      "cardiovascular disease",
+      "acute lymphoblastic leukemia",
+      "malaria",
+      "Myasthenia gravis"
+    ]
+  },
+  "CHEMBL846": {
+    "name": "CALCITRIOL",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Vitamin D receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL1977"
+    ],
+    "indications": [
+      "basal cell carcinoma",
+      "non-small cell lung carcinoma",
+      "psoriasis",
+      "breast neoplasm",
+      "Hypocalcemia",
+      "osteoporosis",
+      "hypertension",
+      "diabetic nephropathy",
+      "Acute kidney injury",
+      "myelodysplastic syndrome"
+    ]
+  },
+  "CHEMBL848": {
+    "name": "LENALIDOMIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "CRL4(CRBN) E3 ubiquitin ligase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3833061"
+    ],
+    "indications": [
+      "Mantle cell lymphoma",
+      "Cachexia",
+      "immune system disease",
+      "chronic lymphocytic leukemia",
+      "hepatocellular carcinoma",
+      "Hodgkins lymphoma",
+      "MALT lymphoma",
+      "myelodysplastic syndrome",
+      "acute myeloid leukemia",
+      "bladder tumor"
+    ]
+  },
+  "CHEMBL964": {
+    "name": "DISULFIRAM",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Aldehyde dehydrogenase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1935"
+    ],
+    "indications": [
+      "cocaine dependence",
+      "melanoma",
+      "parasitic infection",
+      "HIV infection",
+      "methamphetamine dependence",
+      "glioblastoma multiforme",
+      "metastatic melanoma",
+      "non-small cell lung carcinoma",
+      "opioid dependence",
+      "germ cell tumor"
+    ]
+  },
+  "CHEMBL1336": {
+    "name": "SORAFENIB",
+    "max_phase": "4.0",
+    "mechanisms": [],
+    "targets": [],
+    "indications": [
+      "neoplasm",
+      "hepatocellular carcinoma",
+      "acute myeloid leukemia",
+      "lymphoma",
+      "renal cell carcinoma",
+      "sarcoma",
+      "kidney neoplasm",
+      "chronic lymphocytic leukemia",
+      "pancreatic carcinoma",
+      "non-small cell lung carcinoma"
+    ]
+  },
+  "CHEMBL1201668": {
+    "name": "NESIRITIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Atrial natriuretic peptide receptor A agonist"
+    ],
+    "targets": [
+      "CHEMBL1988"
+    ],
+    "indications": [
+      "hypertension",
+      "heart failure",
+      "myocardial infarction",
+      "congestive heart failure",
+      "cardiovascular disease",
+      "obesity",
+      "melanoma",
+      "diabetes mellitus",
+      "kidney failure",
+      "Abnormal cardiovascular system morphology"
+    ]
+  },
+  "CHEMBL1201608": {
+    "name": "MUROMONAB-CD3",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "T cell surface glycoprotein CD3 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364168"
+    ],
+    "indications": [
+      "cutaneous melanoma",
+      "neoplasm",
+      "ulcerative colitis",
+      "melanoma",
+      "kidney neoplasm",
+      "non-alcoholic steatohepatitis",
+      "Central Nervous System Neoplasm",
+      "kidney cancer",
+      "cancer"
+    ]
+  },
+  "CHEMBL2105704": {
+    "name": "LENVATINIB MESYLATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Vascular endothelial growth factor receptor inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2095227"
+    ],
+    "indications": [
+      "metastatic melanoma",
+      "thyroid carcinoma",
+      "non-small cell lung carcinoma",
+      "neoplasm",
+      "thyroid cancer",
+      "renal cell carcinoma",
+      "intrahepatic cholangiocarcinoma",
+      "biliary tract cancer",
+      "cancer",
+      "follicular thyroid carcinoma"
+    ]
+  },
+  "CHEMBL2364607": {
+    "name": "COBIMETINIB FUMARATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor",
+      "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3587",
+      "CHEMBL2964"
+    ],
+    "indications": [
+      "metastatic melanoma",
+      "melanoma"
+    ]
+  },
+  "CHEMBL3348923": {
+    "name": "TOVORAFENIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "RAF serine/threonine protein kinase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3559685"
+    ],
+    "indications": [
+      "metastatic melanoma",
+      "melanoma",
+      "Craniopharyngioma",
+      "Langerhans Cell Histiocytosis",
+      "neoplasm",
+      "papillary thyroid carcinoma",
+      "pancreatic carcinoma",
+      "non-small cell lung carcinoma",
+      "cancer",
+      "pilocytic astrocytoma"
+    ]
+  },
+  "CHEMBL3545110": {
+    "name": "RIBOCICLIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Cyclin-dependent kinase 4 inhibitor",
+      "Cyclin-dependent kinase 6 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2508",
+      "CHEMBL331"
+    ],
+    "indications": [
+      "lymphoma",
+      "melanoma",
+      "glioblastoma multiforme",
+      "liposarcoma",
+      "neoplasm",
+      "head and neck squamous cell carcinoma",
+      "hepatocellular carcinoma",
+      "metastatic prostate cancer",
+      "breast carcinoma",
+      "neuroblastoma"
+    ]
+  },
+  "CHEMBL3707227": {
+    "name": "ATEZOLIZUMAB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Programmed cell death 1 ligand 1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3580522"
+    ],
+    "indications": [
+      "non-small cell lung carcinoma",
+      "myelodysplastic syndrome",
+      "breast carcinoma",
+      "neoplasm",
+      "ovarian neoplasm",
+      "chronic lymphocytic leukemia",
+      "neoplasm of mature B-cells",
+      "hepatocellular carcinoma",
+      "Hodgkins lymphoma",
+      "acute myeloid leukemia"
+    ]
+  },
+  "CHEMBL6": {
+    "name": "INDOMETHACIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Cyclooxygenase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2094253"
+    ],
+    "indications": [
+      "pancreatitis",
+      "premature birth",
+      "ankylosing spondylitis",
+      "eye inflammation",
+      "Arthralgia",
+      "Fish-eye disease",
+      "Myalgia",
+      "cardiovascular disease",
+      "rheumatic disease",
+      "renal colic"
+    ]
+  },
+  "CHEMBL504": {
+    "name": "DIMETHYL SULFOXIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Unknown"
+    ],
+    "targets": [],
+    "indications": [
+      "Myalgia",
+      "Arthralgia",
+      "contracture",
+      "HIV infection",
+      "overactive bladder",
+      "cutaneous melanoma",
+      "interstitial cystitis",
+      "urgency urinary incontinence",
+      "Hyperreflexia",
+      "infection"
+    ]
+  },
+  "CHEMBL325041": {
+    "name": "BORTEZOMIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "26S proteasome inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2364701"
+    ],
+    "indications": [
+      "leukemia",
+      "multiple myeloma",
+      "neoplasm",
+      "acute graft vs. host disease",
+      "lymphoma",
+      "melanoma",
+      "neuroblastoma",
+      "acute promyelocytic leukemia",
+      "myelodysplastic syndrome",
+      "neoplasm of mature B-cells"
+    ]
+  },
+  "CHEMBL1554": {
+    "name": "DACTINOMYCIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "Ewing sarcoma",
+      "alveolar rhabdomyosarcoma",
+      "embryonal rhabdomyosarcoma",
+      "leukemia",
+      "lymphoma",
+      "sarcoma",
+      "melanoma",
+      "rhabdomyosarcoma",
+      "neoplasm",
+      "choriocarcinoma"
+    ]
+  },
+  "CHEMBL1671": {
+    "name": "PROPRANOLOL HYDROCHLORIDE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Beta-1 adrenergic receptor antagonist",
+      "Beta-2 adrenergic receptor antagonist"
+    ],
+    "targets": [
+      "CHEMBL210",
+      "CHEMBL213"
+    ],
+    "indications": [
+      "hypertension",
+      "cutaneous melanoma",
+      "prostate carcinoma",
+      "movement disorder",
+      "soft tissue sarcoma",
+      "hemangioma",
+      "Tetralogy of Fallot",
+      "urinary bladder cancer",
+      "stroke",
+      "angina pectoris"
+    ]
+  },
+  "CHEMBL1773": {
+    "name": "CAPECITABINE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Thymidylate synthase inhibitor",
+      "DNA inhibitor",
+      "RNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1952",
+      "CHEMBL2311222",
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "breast carcinoma",
+      "colorectal adenocarcinoma",
+      "esophageal carcinoma",
+      "gastric carcinoma",
+      "neoplasm",
+      "pancreatic carcinoma",
+      "squamous cell carcinoma",
+      "stomach neoplasm",
+      "colonic neoplasm",
+      "hepatocellular carcinoma"
+    ]
+  },
+  "CHEMBL1201561": {
+    "name": "PEGINTERFERON ALFA-2B",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Interferon alpha/beta receptor agonist"
+    ],
+    "targets": [
+      "CHEMBL2364170"
+    ],
+    "indications": [
+      "chronic hepatitis B virus infection",
+      "chronic hepatitis C virus infection",
+      "hepatitis C virus infection",
+      "melanoma",
+      "HIV-1 infection",
+      "chronic myelogenous leukemia",
+      "multiple myeloma",
+      "hepatocellular carcinoma",
+      "carcinoid tumor",
+      "cutaneous melanoma"
+    ]
+  },
+  "CHEMBL1229517": {
+    "name": "VEMURAFENIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Serine/threonine-protein kinase B-raf inhibitor"
+    ],
+    "targets": [
+      "CHEMBL5145"
+    ],
+    "indications": [
+      "melanoma",
+      "metastatic melanoma",
+      "multiple myeloma",
+      "neoplasm",
+      "non-small cell lung carcinoma",
+      "acute myeloid leukemia",
+      "cutaneous melanoma",
+      "lymphoma",
+      "Craniopharyngioma",
+      "hairy cell leukemia"
+    ]
+  },
+  "CHEMBL1873475": {
+    "name": "IBRUTINIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Tyrosine-protein kinase BTK inhibitor"
+    ],
+    "targets": [
+      "CHEMBL5251"
+    ],
+    "indications": [
+      "liver disease",
+      "neoplasm",
+      "lymphoma",
+      "macroglobulinemia",
+      "multiple myeloma",
+      "chronic lymphocytic leukemia",
+      "leukemia",
+      "Mantle cell lymphoma",
+      "lymphoid leukemia",
+      "acute myeloid leukemia"
+    ]
+  },
+  "CHEMBL2105684": {
+    "name": "SELUMETINIB SULFATE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor",
+      "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL3587",
+      "CHEMBL2964"
+    ],
+    "indications": [
+      "pancreatic carcinoma",
+      "metastatic melanoma",
+      "astrocytoma",
+      "neurofibromatosis",
+      "neurofibromatosis type 1",
+      "ovarian carcinoma",
+      "low grade glioma"
+    ]
+  },
+  "CHEMBL3545185": {
+    "name": "SELINEXOR",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Exportin-1 inhibitor"
+    ],
+    "targets": [
+      "CHEMBL5661"
+    ],
+    "indications": [
+      "melanoma",
+      "dedifferentiated liposarcoma",
+      "myelodysplastic syndrome",
+      "glioblastoma multiforme",
+      "diabetic foot",
+      "neoplasm",
+      "squamous cell carcinoma",
+      "diffuse large B-cell lymphoma",
+      "acute myeloid leukemia",
+      "small cell lung carcinoma"
+    ]
+  },
+  "CHEMBL25": {
+    "name": "ASPIRIN",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Cyclooxygenase inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2094253"
+    ],
+    "indications": [
+      "atrial fibrillation",
+      "duodenal ulcer",
+      "Fever",
+      "hypertension",
+      "peripheral arterial disease",
+      "infertility",
+      "stroke",
+      "pain",
+      "preeclampsia",
+      "squamous cell carcinoma"
+    ]
+  },
+  "CHEMBL476": {
+    "name": "DACARBAZINE",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "DNA inhibitor"
+    ],
+    "targets": [
+      "CHEMBL2311221"
+    ],
+    "indications": [
+      "metastatic melanoma",
+      "melanoma",
+      "cutaneous melanoma",
+      "sarcoma",
+      "Hodgkins lymphoma",
+      "lymphoma",
+      "neoplasm",
+      "neuroblastoma",
+      "soft tissue sarcoma",
+      "unspecified peripheral T-cell lymphoma"
+    ]
+  },
+  "CHEMBL535": {
+    "name": "SUNITINIB",
+    "max_phase": "4.0",
+    "mechanisms": [
+      "Macrophage colony stimulating factor receptor inhibitor",
+      "Vascular endothelial growth factor receptor 2 inhibitor",
+      "Stem cell growth factor receptor inhibitor",
+      "Platelet-derived growth factor receptor beta inhibitor",
+      "Platelet-derived growth factor receptor alpha inhibitor",
+      "Vascular endothelial growth factor receptor 1 inhibitor",
+      "Vascular endothelial growth factor receptor 3 inhibitor",
+      "Tyrosine-protein kinase receptor FLT3 inhibitor",
+      "Tyrosine-protein kinase receptor RET inhibitor"
+    ],
+    "targets": [
+      "CHEMBL1974",
+      "CHEMBL1955",
+      "CHEMBL1868",
+      "CHEMBL1936",
+      "CHEMBL2007",
+      "CHEMBL2041",
+      "CHEMBL1844",
+      "CHEMBL1913",
+      "CHEMBL279"
+    ],
+    "indications": [
+      "neoplasm",
+      "bladder tumor",
+      "renal cell carcinoma",
+      "non-small cell lung carcinoma",
+      "head and neck squamous cell carcinoma",
+      "hepatocellular carcinoma",
+      "metastatic prostate cancer",
+      "adenocarcinoma",
+      "melanoma",
+      "metastatic melanoma"
+    ]
+  }
+}

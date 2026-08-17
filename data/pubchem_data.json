@@ -1,0 +1,306 @@
+{
+  "CHEMBL468": {
+    "cid": 5426,
+    "description": "Thalidomide can cause developmental toxicity according to an independent committee of scientific and health experts. 2-(2,6-dioxopiperidin-3-yl)-1H-isoindole-1,3(2H)-dione is a dicarboximide that is isoindole-1,3(2H)-dione in which the hydrogen attached to the nitrogen is substituted by a 2,6-dioxopiperidin-3-yl group. It is a member of piperidones and a member of phthalimides."
+  },
+  "CHEMBL554": {
+    "cid": 208908,
+    "description": "Lapatinib is a member of furans, an organochlorine compound, an organofluorine compound and a member of quinazolines. It has a role as an antineoplastic agent and a tyrosine kinase inhibitor. It is functionally related to a monofluorobenzene."
+  },
+  "CHEMBL1373": {
+    "cid": 4236,
+    "description": "2-[(diphenylmethyl)sulfinyl]acetamide is a sulfoxide that is dimethylsulfoxide in which two hydrogens attached to one of the methyl groups are replaced by phenyl groups, while one hydrogen attached to the other methyl group is replaced by a carbamoyl (aminocarbonyl) group. It is a sulfoxide and a monocarboxylic acid amide."
+  },
+  "CHEMBL1421": {
+    "cid": 3062316,
+    "description": "Dasatinib (anhydrous) is an aminopyrimidine that is 2-methylpyrimidine which is substituted at position 4 by the primary amino group of 2-amino-1,3-thiazole-5-carboxylic acid and at position 6 by a 4-(2-hydroxyethyl)piperazin-1-yl group, and in which the carboxylic acid group has been formally condensed with 2-chloro-6-methylaniline to afford the corresponding amide. A multi-targeted kinase inhibitor, it is used, particularly as the monohydrate, for the treatment of chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia. Note that the name 'dasatinib' is used to refer to the monohydrate (USAN) as well as to anhydrous dasatinib (INN). It has a role as an anticoronaviral agent, an antineoplastic agent and a tyrosine kinase inhibitor. It is a monocarboxylic acid amide, an organochlorine compound, an aminopyrimidine, a member of 1,3-thiazoles, a N-arylpiperazine, a N-(2-hydroxyethyl)piperazine, a secondary amino compound and a tertiary amino compound. It is a conjugate base of a dasatinib(1+)."
+  },
+  "CHEMBL553025": {
+    "cid": 5311497,
+    "description": "Vinorelbine is a vinca alkaloid with a norvinblastine skeleton. It has a role as an antineoplastic agent and a photosensitizing agent. It is a methyl ester, a vinca alkaloid, a ring assembly, an organic heterotetracyclic compound, an organic heteropentacyclic compound and an acetate ester."
+  },
+  "CHEMBL1201010": {
+    "cid": 225609,
+    "description": "Fludrocortisone acetate is an acetate ester resulting from the formal condensation of the primary hydroxy group of fludrocortisone with acetic acid. A synthetic corticosteroid, it has glucocorticoid actions about 10 times as potent as hydrocortisone, while its mineralocorticoid actions are over 100 times as potent. It is used in partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenal hyperplasia. It is a tertiary alpha-hydroxy ketone, a mineralocorticoid, a 17alpha-hydroxy steroid, an 11beta-hydroxy steroid, a 20-oxo steroid, an acetate ester, a 3-oxo-Delta(4) steroid and a fluorinated steroid. It is functionally related to a fludrocortisone."
+  },
+  "CHEMBL4204794": {
+    "cid": 118023034,
+    "description": null
+  },
+  "CHEMBL467": {
+    "cid": 3657,
+    "description": "Hydroxyurea can cause developmental toxicity according to state or federal government labeling requirements. Hydroxyurea is a member of the class of ureas that is urea in which one of the hydrogens is replaced by a hydroxy group. An antineoplastic used in the treatment of chronic myeloid leukaemia as well as for sickle-cell disease. It has a role as an antimetabolite, an antineoplastic agent, a radical scavenger, an immunomodulator, a genotoxin, a teratogenic agent, a DNA synthesis inhibitor, an antimitotic and an EC 1.17.4.1 (ribonucleoside-diphosphate reductase) inhibitor. It is a member of ureas and a one-carbon compound."
+  },
+  "CHEMBL513": {
+    "cid": 2578,
+    "description": "Bischloroethyl Nitrosourea (BCNU) (Carmustine) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity according to state or federal government labeling requirements. Carmustine is a member of the class of N-nitrosoureas that is 1,3-bis(2-chloroethyl)urea in which one of the nitrogens is substituted by a nitroso group. It has a role as an alkylating agent and an antineoplastic agent. It is an organochlorine compound and a member of N-nitrosoureas."
+  },
+  "CHEMBL803": {
+    "cid": 6253,
+    "description": "Cytarabine can cause developmental toxicity according to an independent committee of scientific and health experts. Cytarabine is a pyrimidine nucleoside in which cytosine is attached to D-arabinofuranose via a beta-N1-glycosidic bond. Used mainly in the treatment of leukaemia, especially acute non-lymphoblastic leukaemia, cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. It also has antiviral and immunosuppressant properties. It has a role as an antiviral agent, an antimetabolite, an antineoplastic agent and an immunosuppressive agent. It is a pyrimidine nucleoside, a beta-D-arabinoside and a monosaccharide derivative. It is functionally related to a cytosine."
+  },
+  "CHEMBL414804": {
+    "cid": 9887053,
+    "description": null
+  },
+  "CHEMBL608533": {
+    "cid": 9829523,
+    "description": "Midostaurin is an organic heterooctacyclic compound that is the N-benzoyl derivative of staurosporine. It has a role as an antineoplastic agent and an EC 2.7.11.13 (protein kinase C) inhibitor. It is a member of benzamides, an organic heterooctacyclic compound, an indolocarbazole and a gamma-lactam. It is functionally related to a staurosporine."
+  },
+  "CHEMBL1096882": {
+    "cid": 30751,
+    "description": "Fludarabine phosphate is a purine arabinonucleoside monophosphate having 2-fluoroadenine as the nucleobase. A prodrug, it is rapidly dephosphorylated to 2-fluoro-ara-A and then phosphorylated intracellularly by deoxycytidine kinase to the active triphosphate, 2-fluoro-ara-ATP. Once incorporated into DNA, 2-fluoro-ara-ATP functions as a DNA chain terminator. It is used for the treatment of adult patients with B-cell chronic lymphocytic leukemia (CLL) who have not responded to, or whose disease has progressed during, treatment with at least one standard alkylating-agent containing regimenas. It has a role as an antiviral agent, an antimetabolite, an antineoplastic agent, an immunosuppressive agent, a prodrug and a DNA synthesis inhibitor. It is an organofluorine compound, a purine arabinonucleoside monophosphate and a nucleoside analogue. It is functionally related to a 2-fluoroadenine."
+  },
+  "CHEMBL1200485": {
+    "cid": 406563,
+    "description": "Sorafenib tosylate is an organosulfonate salt. It contains a sorafenib."
+  },
+  "CHEMBL1201529": {
+    "cid": 76957057,
+    "description": null
+  },
+  "CHEMBL1533310": {
+    "cid": 5818,
+    "description": null
+  },
+  "CHEMBL2105717": {
+    "cid": 25102847,
+    "description": "Cabozantinib is a dicarboxylic acid diamide that is N-phenyl-N'-(4-fluorophenyl)cyclopropane-1,1-dicarboxamide in which the hydrogen at position 4 on the phenyl ring is substituted by a (6,7-dimethoxyquinolin-4-yl)oxy group. A multi-tyrosine kinase inhibitor, used (as its malate salt) for the treatment of progressive, metastatic, medullary thyroid cancer. It has a role as an antineoplastic agent and a tyrosine kinase inhibitor. It is a member of quinolines, an aromatic ether, a dicarboxylic acid diamide and an organofluorine compound."
+  },
+  "CHEMBL3545252": {
+    "cid": 148124,
+    "description": "Docetaxel anhydrous is a tetracyclic diterpenoid that is paclitaxel with the N-benzyloxycarbonyl group replaced by N-tert-butoxycarbonyl, and the acetoxy group at position 10 replaced by a hydroxy group. It has a role as an antineoplastic agent, an antimalarial and a photosensitizing agent. It is a secondary alpha-hydroxy ketone and a tetracyclic diterpenoid. It derives from a hydride of a taxane."
+  },
+  "CHEMBL6067493": {
+    "cid": 71587153,
+    "description": null
+  },
+  "CHEMBL109": {
+    "cid": 3121,
+    "description": "Valproate (Valproic acid) can cause developmental toxicity according to an independent committee of scientific and health experts. Valproic acid is a branched-chain saturated fatty acid that comprises of a propyl substituent on a pentanoic acid stem. It has a role as a psychotropic drug, an antimanic drug, an anticonvulsant, a teratogenic agent, a GABA agent, an EC 3.5.1.98 (histone deacetylase) inhibitor and a neuroprotective agent. It is a branched-chain fatty acid and a branched-chain saturated fatty acid. It is functionally related to a valeric acid. It is a conjugate acid of a valproate."
+  },
+  "CHEMBL635": {
+    "cid": 5865,
+    "description": "Prednisone is a synthetic glucocorticoid drug that is particularly effective as an immunosuppressant, and affects virtually all of the immune system. Prednisone is a prodrug that is converted by the liver into prednisolone (a beta-hydroxy group instead of the oxo group at position 11), which is the active drug and also a steroid. It has a role as an anti-inflammatory drug, an antineoplastic agent, an immunosuppressive agent, an adrenergic agent and a prodrug. It is a primary alpha-hydroxy ketone, a tertiary alpha-hydroxy ketone, a glucocorticoid, a 17alpha-hydroxy steroid, a 21-hydroxy steroid, a 20-oxo steroid, an 11-oxo steroid, a C21-steroid and a 3-oxo-Delta(1),Delta(4)-steroid."
+  },
+  "CHEMBL1282": {
+    "cid": 57469,
+    "description": "Imiquimod is an imidazoquinoline fused [4,5-c] carrying isobutyl and amino substituents at N-1 and C-4 respectively. A prescription medication, it acts as an immune response modifier and is used to treat genital warts, superficial basal cell carcinoma, and actinic keratosis. It has a role as an antineoplastic agent and an interferon inducer."
+  },
+  "CHEMBL1351": {
+    "cid": 426756,
+    "description": "Carboplatin can cause developmental toxicity according to state or federal government labeling requirements."
+  },
+  "CHEMBL374478": {
+    "cid": 135398735,
+    "description": "Rifampin can cause developmental toxicity and female reproductive toxicity according to state or federal government labeling requirements. Rifampicin is a member of the class of rifamycins that is a a semisynthetic antibiotic derived from Amycolatopsis rifamycinica (previously known as Amycolatopsis mediterranei and Streptomyces mediterranei). It has a role as an antiamoebic agent, a geroprotector, an antitubercular agent, an antineoplastic agent, a leprostatic drug, an EC 2.7.7.6 (RNA polymerase) inhibitor, a protein synthesis inhibitor, an angiogenesis inhibitor, a DNA synthesis inhibitor, a neuroprotective agent, an Escherichia coli metabolite and a pregnane X receptor agonist. It is a member of rifamycins, a hydrazone, a N-iminopiperazine, a N-methylpiperazine, a cyclic ketal and a semisynthetic derivative. It is a tautomer of a rifampicin zwitterion."
+  },
+  "CHEMBL182": {
+    "cid": 135398740,
+    "description": "Ganciclovir can cause cancer, developmental toxicity and male reproductive toxicity according to state or federal government labeling requirements. Ganciclovir is an oxopurine that is guanine substituted by a [(1,3-dihydroxypropan-2-yl)oxy]methyl group at position 9. Ganciclovir is an antiviral drug used to treat or prevent AIDS-related cytomegalovirus infections. It has a role as an antiinfective agent and an antiviral drug. It is a member of 2-aminopurines and an oxopurine. It is functionally related to a guanine."
+  },
+  "CHEMBL1489": {
+    "cid": 9444,
+    "description": "Azacitidine can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC). 5-azacytidine is an N-glycosyl-1,3,5-triazine that is 4-amino-1,3,5-triazin-2(1H)-one substituted by a beta-D-ribofuranosyl residue via an N-glycosidic linkage. An antineoplastic agent, it is used in the treatment of myeloid leukaemia. It has a role as an antineoplastic agent. It is a N-glycosyl-1,3,5-triazine and a nucleoside analogue. It is functionally related to a beta-D-ribose."
+  },
+  "CHEMBL483254": {
+    "cid": 6918837,
+    "description": "Panobinostat is a hydroxamic acid obtained by formal condensation of the carboxy group of (2E)-3-[4-({[2-(2-methylindol-3-yl)ethyl]amino}methyl)phenyl]prop-2-enoic acid with the amino group of hydroxylamine. A histone deacetylase inhibitor used (as its lactate salt) in combination with bortezomib and dexamethasone for the treatment of multiple myeloma. It has a role as an antineoplastic agent, an angiogenesis modulating agent and an EC 3.5.1.98 (histone deacetylase) inhibitor. It is a member of cinnamamides, a hydroxamic acid, a methylindole and a secondary amino compound. It is a conjugate base of a panobinostat(1+)."
+  },
+  "CHEMBL1200981": {
+    "cid": 65348,
+    "description": "Epirubicin hydrochloride is an anthracycline. It has a role as an antineoplastic agent."
+  },
+  "CHEMBL1201138": {
+    "cid": 135403647,
+    "description": "Calcium folinate is a tetrahydrofolic acid."
+  },
+  "CHEMBL1201752": {
+    "cid": 6445540,
+    "description": "Ixabepilone is a macrocycle that is a lactam analogue of epothilone B. Binds directly to beta-tubulin subunits on microtubules, leading to suppression of microtubule dynamics. It has a role as an antineoplastic agent and a microtubule-destabilising agent. It is a lactam, an epoxide, a member of 1,3-thiazoles, a macrocycle and a beta-hydroxy ketone."
+  },
+  "CHEMBL2103875": {
+    "cid": 11707110,
+    "description": "Trametinib is a pyridopyrimidine that is used (as its dimethyl sulfoxide addition compound) for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations, and who have not received prior BRAF inhibitor treatment. It has a role as an anticoronaviral agent, a geroprotector, an antineoplastic agent and an EC 2.7.11.24 (mitogen-activated protein kinase) inhibitor. It is a member of acetamides, an aromatic amine, a ring assembly, an organoiodine compound, an organofluorine compound, a pyridopyrimidine and a member of cyclopropanes."
+  },
+  "CHEMBL503": {
+    "cid": 53232,
+    "description": "Lovastatin can cause developmental toxicity according to state or federal government labeling requirements. Lovastatin is a fatty acid ester that is mevastatin carrying an additional methyl group on the carbobicyclic skeleton. It is used in as an anticholesteremic drug and has been found in fungal species such as Aspergillus terreus and Pleurotus ostreatus (oyster mushroom). It has a role as an antineoplastic agent, an anticholesteremic drug, a prodrug and an Aspergillus metabolite. It is a member of hexahydronaphthalenes, a delta-lactone, a polyketide, a fatty acid ester and a statin (naturally occurring). It is functionally related to a mevastatin and a (S)-2-methylbutyric acid."
+  },
+  "CHEMBL820": {
+    "cid": 2478,
+    "description": "1,4-Butanediol dimethanesulfonate (Busulfan) can cause cancer according to California Labor Code. It can cause developmental toxicity according to an independent committee of scientific and health experts. Busulfan is a methanesulfonate ester that is butane-1,4-diol in which the hydrogens of the hydroxy groups are replaced by methanesulfonyl groups. An alkylating antineoplastic agent, it is used for the treatment of chronic myeloid leukemia (although it has been largely replaced by newer drugs). It is also used as an insect sterilant. It has a role as an alkylating agent, an antineoplastic agent, a carcinogenic agent, a teratogenic agent and an insect sterilant. It is functionally related to a butane-1,4-diol."
+  },
+  "CHEMBL1370": {
+    "cid": 5281004,
+    "description": "Budesonide is a glucocorticoid steroid having a highly oxygenated pregna-1,4-diene structure. It is used mainly in the treatment of asthma and non-infectious rhinitis and for treatment and prevention of nasal polyposis. It has a role as an anti-inflammatory drug, a bronchodilator agent and a drug allergen. It is a primary alpha-hydroxy ketone, a glucocorticoid, a 21-hydroxy steroid, an 11beta-hydroxy steroid, a 20-oxo steroid, a cyclic acetal and a 3-oxo-Delta(1),Delta(4)-steroid. It derives from a hydride of a pregnane."
+  },
+  "CHEMBL1751": {
+    "cid": 2724385,
+    "description": "Digoxin is a cardenolide glycoside that is digitoxin beta-hydroxylated at C-12. A cardiac glycoside extracted from the foxglove plant, Digitalis lanata, it is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation, but the margin between toxic and therapeutic doses is small. It has a role as an anti-arrhythmia drug, a cardiotonic drug, an epitope and an EC 3.6.3.9 (Na(+)/K(+)-transporting ATPase) inhibitor. It is a cardenolide glycoside and a steroid saponin. It is a conjugate acid of a digoxin(1-)."
+  },
+  "CHEMBL1946170": {
+    "cid": 11167602,
+    "description": "Regorafenib is a pyridinecarboxamide obtained by condensation of 4-[4-({[4-chloro-3-(trifluoromethyl)phenyl]carbamoyl}amino)-3-fluorophenoxy]pyridine-2-carboxylic acid with methylamine. Used for for the treatment of metastatic colorectal cancer in patients who have previously received chemotherapy, anti-EGFR or anti-VEGF therapy. It has a role as an antineoplastic agent, a tyrosine kinase inhibitor and a hepatotoxic agent. It is a member of phenylureas, a pyridinecarboxamide, an aromatic ether, a member of monochlorobenzenes, a member of (trifluoromethyl)benzenes and a member of monofluorobenzenes."
+  },
+  "CHEMBL2105729": {
+    "cid": 44516822,
+    "description": "Dabrafenib mesylate is a methanesulfonate (mesylate) salt prepared from equimolar amounts of dabrafenib and methanesulfonic acid. Used for treatment of metastatic melanoma. It has a role as an antineoplastic agent and a B-Raf inhibitor. It contains a dabrafenib."
+  },
+  "CHEMBL428647": {
+    "cid": 36314,
+    "description": "Paclitaxel can cause developmental toxicity, female reproductive toxicity and male reproductive toxicity according to state or federal government labeling requirements. Paclitaxel is a tetracyclic diterpenoid isolated originally from the bark of the Pacific yew tree, Taxus brevifolia. It is a mitotic inhibitor used in cancer chemotherapy. Note that the use of the former generic name 'taxol' is now limited, as Taxol is a registered trade mark. It has a role as a metabolite, an antineoplastic agent, a microtubule-stabilising agent and a human metabolite. It is a taxane diterpenoid and a tetracyclic diterpenoid. It is functionally related to a baccatin III."
+  },
+  "CHEMBL131": {
+    "cid": 5755,
+    "description": "Prednisolone is a glucocorticoid that is prednisone in which the oxo group at position 11 has been reduced to the corresponding beta-hydroxy group. It is a drug metabolite of prednisone. It has a role as an anti-inflammatory drug, an antineoplastic agent, a xenobiotic, an immunosuppressive agent, an adrenergic agent, a drug metabolite and an environmental contaminant. It is a primary alpha-hydroxy ketone, a tertiary alpha-hydroxy ketone, a glucocorticoid, a 17alpha-hydroxy steroid, a 21-hydroxy steroid, an 11beta-hydroxy steroid, a 20-oxo steroid, a C21-steroid and a 3-oxo-Delta(1),Delta(4)-steroid. It is functionally related to a Delta(1)-progesterone."
+  },
+  "CHEMBL810": {
+    "cid": 5394,
+    "description": "Temozolomide is an imidazotetrazine that is 3,4-dihydroimidazo[5,1-d][1,2,3,5]tetrazine which is substituted at positions 3, 4, and 8 by methyl, oxo, and carboxamide groups, respectively. A prodrug for MTIC (5-(3-methyltriaz-1-en-1-yl)-1H-imidazole-4-carboxamide, formed by spontaneous hydrolysis of temozolomide in the body), it is used as an oral alkylating agent for the treatment of newly diagnosed malignant glioblastoma multiforme (concomitantly with radiotherapy) and malignant melanoma. It has a role as an alkylating agent, an antineoplastic agent and a prodrug. It is a monocarboxylic acid amide, an imidazotetrazine and a triazene derivative."
+  },
+  "CHEMBL957": {
+    "cid": 104865,
+    "description": "Bosentan is a primary alcohol, a sulfonamide and a member of pyrimidines. It has a role as an antihypertensive agent and an endothelin receptor antagonist."
+  },
+  "CHEMBL975": {
+    "cid": 23662354,
+    "description": "Mesna is an organosulfonic acid."
+  },
+  "CHEMBL343448": {
+    "cid": 5352062,
+    "description": "Romidepsin is a cyclodepsipeptide consisting of the cyclic disulfide of (2Z)-2-aminobut-2-enoyl, L-valyl, (3S,4E)-3-hydroxy-7-sulfanylhept-4-enoyl, D-valyl and D-cysteinyl residues coupled in sequence and cyclised head-to tail. It has a role as an antineoplastic agent and an EC 3.5.1.98 (histone deacetylase) inhibitor. It is a heterocyclic antibiotic, a cyclodepsipeptide and an organic disulfide."
+  },
+  "CHEMBL255863": {
+    "cid": 644241,
+    "description": "Nilotinib is a secondary carboxamide, a member of imidazoles, a member of pyridines, a member of pyrimidines, a secondary amino compound and a member of (trifluoromethyl)benzenes. It has a role as an anticoronaviral agent, an antineoplastic agent and a tyrosine kinase inhibitor."
+  },
+  "CHEMBL1201558": {
+    "cid": 71306834,
+    "description": null
+  },
+  "CHEMBL1201733": {
+    "cid": 11525740,
+    "description": "Pazopanib hydrochloride is a hydrochloride salt prepared from equimolar amounts of pazopanib and hydrochloric acid. Used for treatment of kidney cancer. It has a role as an antineoplastic agent, a tyrosine kinase inhibitor, an angiogenesis modulating agent and a vascular endothelial growth factor receptor antagonist. It contains a pazopanib(1+)."
+  },
+  "CHEMBL2105741": {
+    "cid": 50992434,
+    "description": "Trametinib dimethyl sulfoxide is an addition compound obtained by combining equimolar amounts of trametinib and dimethyl sulfoxide. Used for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations, and who have not received prior BRAF inhibitor treatment. It has a role as an antineoplastic agent and an EC 2.7.11.24 (mitogen-activated protein kinase) inhibitor. It contains a dimethyl sulfoxide and a trametinib."
+  },
+  "CHEMBL3301612": {
+    "cid": 50922675,
+    "description": null
+  },
+  "CHEMBL6067962": {
+    "cid": 16683012,
+    "description": null
+  },
+  "CHEMBL38": {
+    "cid": 444795,
+    "description": "All-trans Retinoic Acid can cause developmental toxicity according to an independent committee of scientific and health experts. All-trans-retinoic acid is a retinoic acid in which all four exocyclic double bonds have E- (trans-) geometry. It has a role as an antioxidant, an antineoplastic agent, a keratolytic drug, a signalling molecule, a retinoid X receptor agonist, an anti-inflammatory agent, a retinoic acid receptor agonist, an AP-1 antagonist and a human metabolite. It is a vitamin A and a retinoic acid. It is a conjugate acid of an all-trans-retinoate."
+  },
+  "CHEMBL416146": {
+    "cid": 123619,
+    "description": "Etoricoxib is a member of the class of bipyridines that is 2,3'-bipyridine which is substituted at the 3, 5, and 6' positions by 4-(methylsulfonyl)phenyl, chlorine, and methyl groups, respectively. It has a role as a non-steroidal anti-inflammatory drug and a cyclooxygenase 2 inhibitor. It is a sulfone, an organochlorine compound and a member of bipyridines."
+  },
+  "CHEMBL11359": {
+    "cid": 5702198,
+    "description": "Cisplatin can cause cancer according to an independent committee of scientific and health experts."
+  },
+  "CHEMBL112": {
+    "cid": 1983,
+    "description": "Paracetamol is a member of the class of phenols that is 4-aminophenol in which one of the hydrogens attached to the amino group has been replaced by an acetyl group. It has a role as a ferroptosis inducer, a geroprotector, a non-steroidal anti-inflammatory drug, a non-narcotic analgesic, an antipyretic, a xenobiotic, a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, a hepatotoxic agent, a cyclooxygenase 3 inhibitor, an environmental contaminant and a human blood serum metabolite. It is a member of acetamides and a member of phenols. It is functionally related to a 4-aminophenol."
+  },
+  "CHEMBL34259": {
+    "cid": 126941,
+    "description": "Methotrexate can cause developmental toxicity according to an independent committee of scientific and health experts. Methotrexate is a member of pteridines, a monocarboxylic acid amide and a dicarboxylic acid. It has a role as an antimetabolite, an antineoplastic agent, an immunosuppressive agent, an antirheumatic drug, a dermatologic drug, an EC 1.5.1.3 (dihydrofolate reductase) inhibitor, an abortifacient and a DNA synthesis inhibitor. It is functionally related to a L-glutamic acid. It is a conjugate acid of a methotrexate(1-)."
+  },
+  "CHEMBL846": {
+    "cid": 5280453,
+    "description": "Calcitriol is a hydroxycalciol that is calcidiol in which the pro-S hydrogen of calcidiol is replaced by a hydroxy group. It is the active form of vitamin D3, produced fom calciol via hydoxylation in the liver to form calcidiol, which is subsequently oxidised in the kidney to give calcitriol. It has a role as a hormone, a metabolite, an antineoplastic agent, a calcium channel agonist, a calcium channel modulator, a bone density conservation agent, a nutraceutical, an antipsoriatic, an immunomodulator, a mouse metabolite and a human metabolite. It is a triol, a hydroxycalciol and a member of D3 vitamins."
+  },
+  "CHEMBL848": {
+    "cid": 216326,
+    "description": "Lenalidomide is a dicarboximide that consists of 1-oxoisoindoline bearing an amino substituent at position 4 and a 2,6-dioxopiperidin-3-yl group at position 2. Inhibits the secretion of TNF-alpha. It has a role as an antineoplastic agent, an angiogenesis inhibitor and an immunomodulator. It is a member of isoindoles, an aromatic amine, a dicarboximide and a member of piperidones."
+  },
+  "CHEMBL964": {
+    "cid": 3117,
+    "description": "Disulfiram is an organic disulfide that results from the formal oxidative dimerisation of N,N-diethyldithiocarbamic acid. A multi-enzyme inhibitor that is used in alcohol aversion therapy and also exhibits anticancer properties. It has a role as a ferroptosis inducer, a fungicide, an EC 1.2.1.3 [aldehyde dehydrogenase (NAD(+))] inhibitor, an antineoplastic agent, an EC 3.1.1.8 (cholinesterase) inhibitor, an angiogenesis inhibitor, an EC 5.99.1.2 (DNA topoisomerase) inhibitor, an apoptosis inducer, a NF-kappaB inhibitor and an EC 3.1.1.1 (carboxylesterase) inhibitor. It is an organic disulfide and an organosulfur acaricide."
+  },
+  "CHEMBL1336": {
+    "cid": 216239,
+    "description": "Sorafenib is a member of the class of phenylureas that is urea in which one of the nitrogens is substituted by a 4-chloro-3-trifluorophenyl group while the other is substituted by a phenyl group which, in turn, is substituted at the para position by a [2-(methylcarbamoyl)pyridin-4-yl]oxy group. It has a role as an anticoronaviral agent, a ferroptosis inducer, an antineoplastic agent, a tyrosine kinase inhibitor, an angiogenesis inhibitor and an EC 2.7.11.1 (non-specific serine/threonine protein kinase) inhibitor. It is a member of phenylureas, a pyridinecarboxamide, an aromatic ether, a member of monochlorobenzenes and a member of (trifluoromethyl)benzenes."
+  },
+  "CHEMBL1201668": {
+    "cid": 71308561,
+    "description": "Nesiritide is a polypeptide."
+  },
+  "CHEMBL2105704": {
+    "cid": 11237762,
+    "description": "Lenvatinib mesylate is a methanesulfonate salt obtained by reaction of lenvatinib with one molar equivalent of methanesulfonic acid. A multi-kinase inhibitor and orphan drug used (as its mesylate salt) for the treatment of various types of thyroid cancer that do not respond to radioiodine. It has a role as an antineoplastic agent, an EC 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor, a fibroblast growth factor receptor antagonist, a vascular endothelial growth factor receptor antagonist and an orphan drug. It contains a lenvatinib(1+)."
+  },
+  "CHEMBL2364607": {
+    "cid": 71491931,
+    "description": "Cobimetinib fumarate is a fumarate salt prepared from cobimetinib by reaction of one molecule of fumaric acid for every two molecules of cobimetinib. An inhibitor of mitogen-activated protein kinase that is used in combination with vemurafenib for the treatment of patients with unresectable or metastatic melanoma. It has a role as an antineoplastic agent and an EC 2.7.11.24 (mitogen-activated protein kinase) inhibitor. It is an organoammonium salt and a fumarate salt. It contains a cobimetinib(1+)."
+  },
+  "CHEMBL3348923": {
+    "cid": 25161177,
+    "description": "TAK-580 is a 1,3-thiazolecarboxamide that is 2-[(1R)-1-aminoethyl]-1,3-thiazole-5-carboxylic acid in which the carboxy group undergoes formal condensation with the amino group of 5-chloro-4-(trifluoromethyl)pyridin-2-amine and in which the amino group undergoes formal condensation with the carboxy group of 6-amino-5-chloropyrimidine-4-carboxylic acid. It is a pan-RAF kinase inhibitor which is currently in clinical development for the treatment of radiographically recurrent or progressive low-grade glioma in children and young adults. It has a role as an antineoplastic agent, an apoptosis inducer and a B-Raf inhibitor. It is a secondary carboxamide, an organofluorine compound, an aminopyrimidine, a chloropyridine, a pyrimidinecarboxamide and a 1,3-thiazolecarboxamide."
+  },
+  "CHEMBL3545110": {
+    "cid": 44631912,
+    "description": "Ribociclib is a member of piperazines and a member of pyridines."
+  },
+  "CHEMBL6": {
+    "cid": 3715,
+    "description": "Indometacin is a member of the class of indole-3-acetic acids that is indole-3-acetic acid in which the indole ring is substituted at positions 1, 2 and 5 by p-chlorobenzoyl, methyl, and methoxy groups, respectively. A non-steroidal anti-inflammatory drug, it is used in the treatment of musculoskeletal and joint disorders including osteoarthritis, rheumatoid arthritis, gout, bursitis and tendinitis. It has a role as a non-steroidal anti-inflammatory drug, an analgesic, an EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor, a xenobiotic, a gout suppressant, a drug metabolite, a xenobiotic metabolite and an environmental contaminant. It is a member of indole-3-acetic acids, an aromatic ether, a N-acylindole and a member of monochlorobenzenes."
+  },
+  "CHEMBL504": {
+    "cid": 679,
+    "description": "Dimethyl sulfoxide is a 2-carbon sulfoxide in which the sulfur atom has two methyl substituents. It has a role as a geroprotector, an alkylating agent, a non-narcotic analgesic, a MRI contrast agent, a polar aprotic solvent, a radical scavenger, an antidote and an Escherichia coli metabolite. It is a volatile organic compound and a sulfoxide."
+  },
+  "CHEMBL325041": {
+    "cid": 387447,
+    "description": "Bortezomib is L-Phenylalaninamide substituted at the amide nitrogen by a 1-(dihydroxyboranyl)-3-methylbutyl group and at Nalpha by a pyrazin-2-ylcarbonyl group. It is a dipeptidyl boronic acid that reversibly inhibits the 26S proteasome. It has a role as an antineoplastic agent, an antiprotozoal drug, a protease inhibitor and a proteasome inhibitor. It is an amino acid amide, a member of pyrazines and a L-phenylalanine derivative. It is functionally related to a boronic acid."
+  },
+  "CHEMBL1554": {
+    "cid": 457193,
+    "description": "Actinomycin D can cause cancer and developmental toxicity according to state or federal government labeling requirements. Actinomycin D is an actinomycin. It has a role as a mutagen."
+  },
+  "CHEMBL1671": {
+    "cid": 62882,
+    "description": null
+  },
+  "CHEMBL1773": {
+    "cid": 60953,
+    "description": "Capecitabine is a carbamate ester that is cytidine in which the hydrogen at position 5 is replaced by fluorine and in which the amino group attached to position 4 is converted into its N-(penyloxy)carbonyl derivative. Capecitabine is a antineoplastic agent used in the treatment of cancers. It has a role as an antimetabolite, an antineoplastic agent and a prodrug. It is a carbamate ester, a member of cytidines and an organofluorine compound."
+  },
+  "CHEMBL1229517": {
+    "cid": 42611257,
+    "description": "Vemurafenib is a pyrrolopyridine that is 1H-pyrrolo[2,3-b]pyridine which is substituted at position 5 by a p-chlorophenyl group and at positions 3 by a 3-amino-2,6-difluorobenzoyl group, the amino group of which has undergone formal condensation with propane-1-sulfonic acid to give the corresponding sulfonamide. An inhibitor of BRAF and other kinases. It has a role as an antineoplastic agent and a B-Raf inhibitor. It is a sulfonamide, a difluorobenzene, a pyrrolopyridine, an aromatic ketone and a member of monochlorobenzenes."
+  },
+  "CHEMBL1873475": {
+    "cid": 24821094,
+    "description": "Ibrutinib is a member of the class of acrylamides that is (3R)-3-[4-amino-3-(4-phenoxyphenyl)pyrazolo[3,4-d]pyrimidin-1-yl]piperidine in which the piperidine nitrogen is replaced by an acryloyl group. A selective and covalent inhibitor of the enzyme Bruton's tyrosine kinase, it is used for treatment of B-cell malignancies. It has a role as an antineoplastic agent and an EC 2.7.10.2 (non-specific protein-tyrosine kinase) inhibitor. It is a tertiary carboxamide, a member of acrylamides, an aromatic amine, an aromatic ether, a pyrazolopyrimidine and a N-acylpiperidine."
+  },
+  "CHEMBL2105684": {
+    "cid": 16214875,
+    "description": null
+  },
+  "CHEMBL3545185": {
+    "cid": 71481097,
+    "description": "Selinexor is a member of the class of triazoles that is 1H-1,2,4-triazole substituted by (1Z)-3-oxo-3-[2-(pyrazin-2-yl)hydrazinyl]prop-1-en-1-yl and 3,5-bis(trifluoromethyl)phenyl groups at positions 1 and 3, respectively. It is a prescription medicine approved for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma. It has a role as an exportin 1 inhibitor, an antineoplastic agent, an anti-inflammatory agent and an apoptosis inducer. It is a hydrazide, a member of triazoles, a member of pyrazines, an enamide and a member of (trifluoromethyl)benzenes."
+  },
+  "CHEMBL25": {
+    "cid": 2244,
+    "description": "Aspirin can cause developmental toxicity and female reproductive toxicity according to an independent committee of scientific and health experts. Acetylsalicylic acid is a member of the class of benzoic acids that is salicylic acid in which the hydrogen that is attached to the phenolic hydroxy group has been replaced by an acetoxy group. A non-steroidal anti-inflammatory drug with cyclooxygenase inhibitor activity. It has a role as a geroprotector, a non-steroidal anti-inflammatory drug, a non-narcotic analgesic, an antipyretic, a prostaglandin antagonist, an anticoagulant, a platelet aggregation inhibitor, a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, a teratogenic agent, a plant activator, an EC 1.1.1.188 (prostaglandin-F synthase) inhibitor and a drug allergen. It is a member of phenyl acetates, a member of benzoic acids and a member of salicylates. It is functionally related to a salicylic acid. It is a conjugate acid of an acetylsalicylate."
+  },
+  "CHEMBL476": {
+    "cid": 135398738,
+    "description": "Dacarbazine can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity according to state or federal government labeling requirements. (E)-dacarbazine is a dacarbazine in which the N=N double bond adopts a trans-configuration."
+  },
+  "CHEMBL535": {
+    "cid": 5329102,
+    "description": "Sunitinib is a member of pyrroles and a monocarboxylic acid amide. It has a role as an antineoplastic agent, an angiogenesis inhibitor, an immunomodulator, an EC 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor, a neuroprotective agent and a vascular endothelial growth factor receptor antagonist. It is functionally related to a 3-methyleneoxindole."
+  }
+}

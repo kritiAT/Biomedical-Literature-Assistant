@@ -16,13 +16,6 @@ Required environment variables (.env file or host secrets):
     OPENAI_API_KEY
     PINECONE_API_KEY
 
-Install dependencies:
-    pip install streamlit langchain langchain-core langchain-text-splitters langchain-openai \\
-                langchain-pinecone pinecone pydantic python-dotenv
-
-NOTE: install "pinecone" (not the deprecated "pinecone-client") — see project notes on
-package-name conflicts and LangChain 1.0's restructured import paths (langchain_text_splitters,
-langchain_core.documents) if you hit install/import errors.
 """
 
 import os
@@ -43,8 +36,8 @@ load_dotenv()
 # Config
 # ----------------------------------------------------------------------------
 PINECONE_INDEX_NAME = "melanoma-kb"
-LITERATURE_NAMESPACE = ""      # default namespace, matches notebook 1
-DRUGS_NAMESPACE = "drugs"      # matches notebook 3
+LITERATURE_NAMESPACE = ""
+DRUGS_NAMESPACE = "drugs"
 EMBEDDING_MODEL = "text-embedding-3-small"
 LLM_MODEL = "gpt-4o-mini"
 TOP_K = 5
@@ -266,98 +259,8 @@ def render_chat_message(role: str, content: str) -> None:
 # ----------------------------------------------------------------------------
 # UI
 # ----------------------------------------------------------------------------
-# st.set_page_config(page_title="Mel-AI", page_icon="🔍", layout="wide")
-
-# # Light theme touches: soft page background, rounded suggestion buttons, lighter sidebar.
-# st.markdown(
-#     """
-#     <style>
-#     .stApp { background-color: #FAFCFF; }
-#     section[data-testid="stSidebar"] { background-color: #F3F7FB; }
-#     div.stButton > button {
-#         border-radius: 20px;
-#         border: 2px solid #BBD6F0;
-#         background-color: #FFFFFF;
-#         color: #1B4965;
-#     }
-#     div.stButton > button:hover {
-#         border-color: #5FA8D3;
-#         color: #0B3954;
-#     }
-#     </style>
-#     """,
-#     unsafe_allow_html=True,
-# )
-
-# st.title("🔍 Mel-AI — Melanoma Research Assistant")
-# st.caption(
-#     "Ask about melanoma research literature or melanoma-relevant drugs. Answers are grounded in "
-#     "retrieved PubMed abstracts and PubChem/ChEMBL drug data, with citations. Remembers this "
-#     "conversation's context. Not medical advice."
-# )
-
-# index, literature_retriever, drugs_retriever, router_llm, chain = load_resources()
-
-# # --- Knowledge base metrics row ---
-# m1, m2 = st.columns(2)
-# m1.metric("📚 PubMed articles indexed", f"{NUM_ARTICLES_INDEXED:,}")
-# m2.metric("💊 Drugs covered", f"{NUM_DRUGS_COVERED}")
-
-# st.divider()
 
 st.set_page_config(page_title="Mel-AI", page_icon="🔍", layout="wide")
-
-# --- Theme: gradient title/sidebar, gradient metric cards, distinct gradients per chat role ---
-# st.markdown(
-#     """
-#     <style>
-#     .stApp { background-color: #FAFCFF; }
-
-#     /* Sidebar gradient */
-#     section[data-testid="stSidebar"] {
-#         background: linear-gradient(180deg, #EAF4FC 0%, #F3F7FB 60%, #FDF7FB 100%);
-#     }
-
-#     /* Gradient title */
-#     .gradient-title {
-#         font-size: 2.4rem;
-#         font-weight: 800;
-#         background: linear-gradient(90deg, #1B4965 0%, #5FA8D3 50%, #BC6C8F 100%);
-#         -webkit-background-clip: text;
-#         -webkit-text-fill-color: transparent;
-#         background-clip: text;
-#         margin-bottom: 0.2rem;
-#     }
-
-#     /* Suggestion buttons */
-#     div.stButton > button {
-#         border-radius: 20px;
-#         border: 2px solid #BBD6F0;
-#         background-color: #FFFFFF;
-#         color: #1B4965;
-#         transition: all 0.2s ease-in-out;
-#     }
-#     div.stButton > button:hover {
-#         border-color: #5FA8D3;
-#         color: #0B3954;
-#         transform: translateY(-1px);
-#     }
-
-#     /* Metric cards — gradient background, stable Streamlit testid */
-#     div[data-testid="stMetric"] {
-#         background: linear-gradient(135deg, #5FA8D3 0%, #1B4965 100%);
-#         border-radius: 14px;
-#         padding: 14px 16px;
-#         box-shadow: 0 2px 6px rgba(27, 73, 101, 0.15);
-#     }
-#     div[data-testid="stMetric"] label,
-#     div[data-testid="stMetric"] div {
-#         color: #FFFFFF !important;
-#     }
-#     </style>
-#     """,
-#     unsafe_allow_html=True,
-# )
 
 st.markdown("""
 <style>

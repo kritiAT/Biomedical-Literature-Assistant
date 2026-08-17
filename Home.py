@@ -20,7 +20,7 @@ import streamlit as st
 NUM_ARTICLES_INDEXED = 4783
 NUM_DRUGS_COVERED = 57
 
-st.set_page_config(page_title="Melanoma Research Assistant", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="Biomedical Research Copilot", page_icon="🧬", layout="wide")
 
 st.markdown("""
 <style>
@@ -35,8 +35,8 @@ section[data-testid="stSidebar"] {
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🔬 Melanoma Research Assistant")
-st.caption("An AI research companion for melanoma literature and drug information.")
+st.title("🧬 Biomedical Research Copilot")
+st.caption("An AI research companion for exploring biomedical knowledge.")
 
 st.divider()
 
@@ -52,6 +52,12 @@ m2.markdown(
             f'border-radius:12px; line-height:1.5;">💊 <b>{NUM_DRUGS_COVERED}</b> Drugs Covered</div>',
             unsafe_allow_html=True,
         )
+
+st.divider()
+st.markdown("""
+An AI-powered research assistant built with **RAG, LLMs, and multimodal document retrieval**, that helps researchers, bioinformaticians and healthcare professionals explore biomedical literature and drug information through natural language questions. 
+The application provides two specialized assistants for exploring melanoma literature and analyzing user-provided research articles.
+""")
 
 st.divider()
 
